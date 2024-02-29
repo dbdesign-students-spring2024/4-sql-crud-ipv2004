@@ -113,59 +113,85 @@ CREATE TABLE stories (
 [Story Data](data/stories.csv)
 [Messages Data](data/messages.csv)
 ### 3. Import Code
+```sql
 .import C:\Users\ishar\Downloads\appmockdata.csv users
 .import C:\Users\ishar\Downloads\posts.csv posts
 .import C:\Users\ishar\Downloads\messages.csv messages
 .import C:\Users\ishar\Downloads\stories.csv stories
+```
 ### 4. Queries
 a. **Register a new User.**
+```sql
 INSERT INTO users (email, password, handle) VALUES ('user@example.com', 'password123', 'userhandle');
+```
 b. **Create a new Message sent by a particular User to a particular User (pick any two Users for example).**
+```sql
 INSERT INTO posts (user_id, post_type, created_at) VALUES (1, 'message', datetime('now'));
 INSERT INTO messages (message_id, recipient_id, content) VALUES (last_insert_rowid(), 2, 'Hello from User 1 to User 2');
+```
 c. **Create a new Story by a particular User (pick any User for example).**
+```sql
 INSERT INTO posts (user_id, post_type, created_at) VALUES (1, 'story', datetime('now'));
 INSERT INTO stories (story_id, content) VALUES (last_insert_rowid(), 'Story by User 1');
+```
 d. **Show the 10 most recent visible Messages and Stories, in order of recency.**
+```sql
 SELECT p.post_id, p.post_type, p.created_at, IFNULL(m.content, s.content) AS content
 FROM posts p
 LEFT JOIN messages m ON p.post_id = m.message_id
 LEFT JOIN stories s ON p.post_id = s.story_id
 ORDER BY p.created_at DESC
 LIMIT 10;
+```
 e. **Show the 10 most recent visible Messages sent by a particular User to a particular User (pick any two Users for example), in order of recency.**
+```sql
 SELECT m.content
 FROM messages m
 JOIN posts p ON m.message_id = p.post_id
 WHERE p.user_id = 1 AND m.recipient_id = 2
 ORDER BY p.created_at DESC
 LIMIT 10;
+```
 f. **Make all Stories that are more than 24 hours old invisible.**
+```sql
 SELECT story_id
 FROM stories s
 JOIN posts p ON s.story_id = p.post_id
 WHERE (JULIANDAY('now') - JULIANDAY(p.created_at)) * 24 > 24;
+```
 g. **Show all invisible Messages and Stories, in order of recency.**
--- Placeholder query; adjust based on your invisibility mechanism
+```sql
+ALTER TABLE messages
+ADD COLUMN is_invisible INTEGER DEFAULT 0;
+UPDATE stories
+SET is_invisible = 1
+WHERE (JULIANDAY('now') - JULIANDAY(created_at)) * 24 > 24;
 SELECT post_id, post_type, created_at
 FROM posts
-WHERE invisible = 1 -- Assuming there's an 'invisible' flag
+WHERE invisible = 1
 ORDER BY created_at DESC;
+```
 h. **Show the number of posts by each User.**
+```sql
 SELECT user_id, COUNT(*) as total_posts
 FROM posts
 GROUP BY user_id;
+```
 i. **Show the post text and email address of all posts and the User who made them within the last 24 hours.**
+```sql
 SELECT u.email, IFNULL(m.content, s.content) AS content
 FROM posts p
 LEFT JOIN users u ON p.user_id = u.user_id
 LEFT JOIN messages m ON p.post_id = m.message_id
 LEFT JOIN stories s ON p.post_id = s.story_id
 WHERE p.created_at >= datetime('now', '-1 day');
+```
 j. **Show the email addresses of all Users who have not posted anything yet.**
+```sql
 SELECT email
 FROM users
 WHERE user_id NOT IN (SELECT DISTINCT user_id FROM posts);
+```
 
 
 
