@@ -1,0 +1,1001 @@
+restaurant_id,name,category,price_tier,neighborhood,opening_hours,closing_hours,good_for_kids
+1,"Runte, Abbott and Vandervort",Latvian,Expensive,Hamilton Heights,9:00,22:00,FALSE
+2,Daniel-McDermott,Azerbaijani,Expensive,West Village,9:00,22:00,FALSE
+3,"Volkman, Will and Jaskolski",Thai,Cheap,Gramercy,9:00,22:00,FALSE
+4,"Russel, Bogisich and Yundt",Iranian,Medium,Gramercy,9:00,22:00,FALSE
+5,"Swift, Klein and Bode",Belgian,Medium,Upper West Side,9:00,22:00,TRUE
+6,"Bednar, Prosacco and Shanahan",Spanish,Expensive,Coney Island,9:00,22:00,FALSE
+7,Botsford-Stamm,Slovak,Cheap,Little Italy,9:00,22:00,FALSE
+8,Goyette LLC,Georgian,Cheap,Upper West Side,9:00,22:00,FALSE
+9,"Kessler, Jones and Lindgren",Portuguese,Expensive,East Village,9:00,22:00,TRUE
+10,"Farrell, Schumm and Wilderman",Qatari,Medium,East Harlem,9:00,22:00,FALSE
+11,Rolfson-D'Amore,Ghanaian,Medium,West Village,9:00,22:00,FALSE
+12,Leuschke Inc,Estonian,Expensive,Tribeca,9:00,22:00,TRUE
+13,Rohan-Shields,Peruvian,Expensive,Chinatown,9:00,22:00,FALSE
+14,"Bogisich, Jacobs and Schmeler",German,Expensive,Long Island City,9:00,22:00,TRUE
+15,D'Amore-Effertz,Filipino,Expensive,Sutton Place,9:00,22:00,TRUE
+16,Dooley Inc,Ukrainian,Medium,Financial District,9:00,22:00,FALSE
+17,Pagac-Harris,Italian,Expensive,Chelsea,9:00,22:00,TRUE
+18,Russel-Howe,Ghanaian,Cheap,Murray Hill,9:00,22:00,FALSE
+19,"Rosenbaum, Jerde and Kovacek",Finnish,Expensive,Forest Hills,9:00,22:00,TRUE
+20,Boyle-Beier,Bangladeshi,Cheap,Greenpoint,9:00,22:00,FALSE
+21,Huel-Rohan,Filipino,Cheap,Crown Heights,9:00,22:00,TRUE
+22,Veum-Ernser,Saudi Arabian,Medium,Flushing,9:00,22:00,TRUE
+23,Dietrich-Littel,Bangladeshi,Expensive,Flatbush,9:00,22:00,FALSE
+24,Runolfsson Inc,Bulgarian,Expensive,Flatiron District,9:00,22:00,TRUE
+25,Schulist LLC,Croatian,Expensive,Harlem,9:00,22:00,TRUE
+26,Bogisich Group,Uzbek,Expensive,Elmhurst,9:00,22:00,FALSE
+27,Ritchie and Sons,Russian,Medium,Upper East Side,9:00,22:00,TRUE
+28,Wehner LLC,Pakistani,Cheap,Jamaica,9:00,22:00,TRUE
+29,Padberg LLC,Moroccan,Cheap,Greenwich Village,9:00,22:00,FALSE
+30,"Collier, Monahan and Gleason",Kyrgyz,Cheap,Gramercy,9:00,22:00,FALSE
+31,Baumbach Group,Icelandic,Cheap,East Harlem,9:00,22:00,FALSE
+32,"Langworth, Nitzsche and Bauch",Qatari,Medium,Greenpoint,9:00,22:00,FALSE
+33,Koepp Group,French,Medium,Washington Heights,9:00,22:00,FALSE
+34,Kuhn-Koss,Filipino,Expensive,Woodside,9:00,22:00,FALSE
+35,"Bogisich, Jenkins and Moen",South African,Medium,Coney Island,9:00,22:00,FALSE
+36,"Gleason, Hagenes and Grimes",Turkish,Medium,NoHo,9:00,22:00,TRUE
+37,Altenwerth Inc,Argentine,Medium,Financial District,9:00,22:00,TRUE
+38,Welch-Howe,Mongolian,Medium,Lower Manhattan,9:00,22:00,TRUE
+39,Ebert Inc,Danish,Cheap,Elmhurst,9:00,22:00,TRUE
+40,Baumbach-Herzog,Norwegian,Expensive,Jackson Heights,9:00,22:00,FALSE
+41,Wolf Group,Bahraini,Cheap,Flushing,9:00,22:00,TRUE
+42,Marquardt LLC,Latvian,Expensive,Bayside,9:00,22:00,TRUE
+43,"Jacobson, Price and Thompson",Kyrgyz,Medium,Hamilton Heights,9:00,22:00,FALSE
+44,Bernier-Kshlerin,Slovenian,Medium,Sutton Place,9:00,22:00,TRUE
+45,"Schimmel, Hansen and Jacobs",Italian,Medium,Kips Bay,9:00,22:00,FALSE
+46,Grant-Kuhlman,Czech,Cheap,Flushing,9:00,22:00,FALSE
+47,Gulgowski-Johnston,Japanese,Medium,Elmhurst,9:00,22:00,FALSE
+48,Stracke-O'Hara,Argentine,Medium,Gramercy,9:00,22:00,TRUE
+49,Hoeger-Mayert,Jordanian,Expensive,Washington Heights,9:00,22:00,FALSE
+50,Schaefer and Sons,French,Expensive,East Village,9:00,22:00,FALSE
+51,Streich-Rempel,South African,Cheap,East Village,9:00,22:00,TRUE
+52,Hettinger and Sons,Uzbek,Medium,Flatiron District,9:00,22:00,FALSE
+53,"Bednar, Johns and Klocko",Swedish,Expensive,Bensonhurst,9:00,22:00,TRUE
+54,"Fadel, Homenick and Leannon",Polish,Medium,Financial District,9:00,22:00,FALSE
+55,Nikolaus Group,Swiss,Expensive,Kips Bay,9:00,22:00,TRUE
+56,Adams-Abernathy,Moroccan,Cheap,Prospect Heights,9:00,22:00,TRUE
+57,Wyman and Sons,Caribbean,Cheap,East Harlem,9:00,22:00,TRUE
+58,Marks-Ortiz,Spanish,Cheap,Little Italy,9:00,22:00,TRUE
+59,Mayer-Kutch,South African,Cheap,Flushing,9:00,22:00,FALSE
+60,Frami Inc,Lithuanian,Expensive,Rego Park,9:00,22:00,FALSE
+61,Corkery LLC,Swedish,Medium,Bensonhurst,9:00,22:00,FALSE
+62,Nicolas Inc,Japanese,Cheap,Hamilton Heights,9:00,22:00,TRUE
+63,MacGyver-Hodkiewicz,Thai,Medium,Jamaica,9:00,22:00,TRUE
+64,"Swift, Parker and Johnson",German,Medium,West Village,9:00,22:00,FALSE
+65,Schmitt Inc,Lebanese,Expensive,Hamilton Heights,9:00,22:00,TRUE
+66,Welch LLC,Kyrgyz,Medium,Greenwich Village,9:00,22:00,FALSE
+67,Boehm LLC,Polish,Medium,Sunnyside,9:00,22:00,TRUE
+68,Johnston Inc,Finnish,Expensive,Sunnyside,9:00,22:00,TRUE
+69,Bradtke-Feil,Georgian,Medium,Greenwich Village,9:00,22:00,FALSE
+70,Orn and Sons,Mongolian,Medium,Upper West Side,9:00,22:00,TRUE
+71,Kuhlman and Sons,Malaysian,Medium,Greenwich Village,9:00,22:00,TRUE
+72,Hills-Crooks,Ethiopian,Cheap,Midtown,9:00,22:00,FALSE
+73,"Daugherty, Waelchi and Spinka",Emirati,Expensive,Sutton Place,9:00,22:00,FALSE
+74,Pfeffer LLC,South African,Cheap,Kips Bay,9:00,22:00,TRUE
+75,"Hintz, Stoltenberg and Kirlin",Moroccan,Cheap,Prospect Heights,9:00,22:00,TRUE
+76,Zemlak-Witting,Nepali,Cheap,Gramercy,9:00,22:00,TRUE
+77,Wyman and Sons,Filipino,Expensive,Crown Heights,9:00,22:00,TRUE
+78,"Kertzmann, Kemmer and Ziemann",Malaysian,Expensive,Jackson Heights,9:00,22:00,FALSE
+79,Little LLC,Bahraini,Cheap,Rego Park,9:00,22:00,TRUE
+80,Keebler Inc,Norwegian,Expensive,Bensonhurst,9:00,22:00,TRUE
+81,"O'Kon, Stracke and Brown",Azerbaijani,Cheap,Chinatown,9:00,22:00,FALSE
+82,"D'Amore, O'Hara and Considine",Slovenian,Medium,Hamilton Heights,9:00,22:00,FALSE
+83,Howell-Homenick,Caribbean,Medium,Bedford-Stuyvesant,9:00,22:00,FALSE
+84,"Boehm, Walker and Thiel",Greek,Cheap,Coney Island,9:00,22:00,TRUE
+85,Heller and Sons,Sri Lankan,Cheap,Hell's Kitchen,9:00,22:00,TRUE
+86,"Daugherty, Larson and Zemlak",Afghan,Expensive,Bay Ridge,9:00,22:00,TRUE
+87,"Kshlerin, Kunde and Gutkowski",Georgian,Cheap,Gramercy,9:00,22:00,TRUE
+88,Hackett and Sons,Emirati,Cheap,Hamilton Heights,9:00,22:00,FALSE
+89,"Mayer, Reilly and Hackett",Chinese,Expensive,Bay Ridge,9:00,22:00,TRUE
+90,Schmeler-Altenwerth,Kenyan,Expensive,Kips Bay,9:00,22:00,TRUE
+91,Quigley and Sons,Afghan,Medium,Jamaica,9:00,22:00,TRUE
+92,Murray-Beatty,Australian,Expensive,Harlem,9:00,22:00,TRUE
+93,Brown-Rath,Ghanaian,Cheap,Greenpoint,9:00,22:00,TRUE
+94,"Gleason, Oberbrunner and Farrell",Afghan,Cheap,Brighton Beach,9:00,22:00,TRUE
+95,Donnelly Inc,Palestinian,Cheap,Rego Park,9:00,22:00,TRUE
+96,Hyatt and Sons,Lebanese,Medium,Bushwick,9:00,22:00,TRUE
+97,"Fritsch, Stoltenberg and Greenfelder",Hungarian,Cheap,Astoria,9:00,22:00,TRUE
+98,Willms Inc,Croatian,Medium,Inwood,9:00,22:00,FALSE
+99,Hudson Inc,Ghanaian,Medium,Flushing,9:00,22:00,TRUE
+100,Monahan-Smitham,Moroccan,Cheap,Times Square,9:00,22:00,TRUE
+101,Wilderman-Hand,Malaysian,Expensive,Chinatown,9:00,22:00,FALSE
+102,Satterfield and Sons,Croatian,Medium,Flushing,9:00,22:00,TRUE
+103,"Goyette, Hane and Terry",Slovak,Cheap,Kips Bay,9:00,22:00,TRUE
+104,"Senger, Toy and Haag",Korean,Cheap,Jackson Heights,9:00,22:00,TRUE
+105,Hand-Paucek,Indonesian,Expensive,Kips Bay,9:00,22:00,TRUE
+106,Krajcik-Will,Armenian,Expensive,Inwood,9:00,22:00,FALSE
+107,Pacocha Group,Georgian,Expensive,Elmhurst,9:00,22:00,FALSE
+108,Marquardt-Schumm,Indian,Medium,Lower Manhattan,9:00,22:00,FALSE
+109,Paucek-Crooks,Brazilian,Cheap,Flatiron District,9:00,22:00,FALSE
+110,Hettinger and Sons,Italian,Cheap,Bensonhurst,9:00,22:00,FALSE
+111,"Skiles, O'Conner and Bechtelar",Moroccan,Cheap,Flushing,9:00,22:00,TRUE
+112,Johns-Boyer,Argentine,Medium,Elmhurst,9:00,22:00,FALSE
+113,Harris-Windler,Turkish,Expensive,Morningside Heights,9:00,22:00,TRUE
+114,Russel-Kulas,Israeli,Cheap,Upper West Side,9:00,22:00,FALSE
+115,Hickle Inc,Australian,Medium,Lower East Side,9:00,22:00,FALSE
+116,"Wintheiser, Hilpert and Waelchi",Nigerian,Cheap,Harlem,9:00,22:00,TRUE
+117,Prosacco-Haley,Indonesian,Medium,Brighton Beach,9:00,22:00,TRUE
+118,Schmidt-Bauch,Moroccan,Medium,Elmhurst,9:00,22:00,FALSE
+119,Tillman Inc,British,Medium,Hell's Kitchen,9:00,22:00,FALSE
+120,Zemlak-Schowalter,Norwegian,Medium,Sutton Place,9:00,22:00,TRUE
+121,"Koss, Altenwerth and Kautzer",Vietnamese,Cheap,Hamilton Heights,9:00,22:00,TRUE
+122,"Nicolas, Flatley and Schaefer",Ukrainian,Cheap,Inwood,9:00,22:00,TRUE
+123,Koelpin-Legros,Greek,Expensive,Chelsea,9:00,22:00,TRUE
+124,Upton-Koss,French,Medium,Woodside,9:00,22:00,FALSE
+125,Considine LLC,Cuban,Expensive,Sutton Place,9:00,22:00,FALSE
+126,Thiel-Champlin,Peruvian,Cheap,Gramercy,9:00,22:00,FALSE
+127,"D'Amore, Jaskolski and Monahan",French,Cheap,Elmhurst,9:00,22:00,TRUE
+128,"Witting, Hodkiewicz and Quitzon",Korean,Expensive,Elmhurst,9:00,22:00,TRUE
+129,"Smitham, Bartell and Nolan",Slovak,Cheap,Flushing,9:00,22:00,TRUE
+130,"Kovacek, Ledner and Robel",Israeli,Medium,Chinatown,9:00,22:00,FALSE
+131,Boyle and Sons,South African,Medium,Bushwick,9:00,22:00,TRUE
+132,"Luettgen, O'Reilly and Herman",Cuban,Medium,Bayside,9:00,22:00,TRUE
+133,"Lebsack, Smitham and Predovic",Omani,Medium,Washington Heights,9:00,22:00,FALSE
+134,Watsica Inc,Turkish,Medium,Washington Heights,9:00,22:00,FALSE
+135,Barrows-Senger,Slovenian,Cheap,Kips Bay,9:00,22:00,FALSE
+136,Von-Jast,Israeli,Expensive,Flatbush,9:00,22:00,FALSE
+137,"Legros, Ortiz and Jerde",Jordanian,Expensive,Bay Ridge,9:00,22:00,TRUE
+138,"Wintheiser, Bradtke and Schroeder",Spanish,Expensive,Bayside,9:00,22:00,TRUE
+139,Bauch Group,Tajik,Cheap,Financial District,9:00,22:00,FALSE
+140,Hettinger-Shanahan,Ethiopian,Medium,Inwood,9:00,22:00,FALSE
+141,"Wisoky, Rempel and Lowe",Emirati,Medium,Tribeca,9:00,22:00,FALSE
+142,Rippin and Sons,Iraqi,Expensive,Kips Bay,9:00,22:00,FALSE
+143,"Mraz, Cartwright and Hamill",Hungarian,Expensive,Coney Island,9:00,22:00,TRUE
+144,Orn Inc,Spanish,Cheap,Sutton Place,9:00,22:00,TRUE
+145,Nicolas and Sons,Sri Lankan,Medium,Lower Manhattan,9:00,22:00,FALSE
+146,"Pacocha, Haley and Goldner",Nepali,Medium,Tribeca,9:00,22:00,FALSE
+147,Cummings-Russel,Vietnamese,Cheap,Lower East Side,9:00,22:00,TRUE
+148,Langosh-Glover,Mexican,Medium,Gramercy,9:00,22:00,FALSE
+149,Schultz-Padberg,Georgian,Expensive,Flatbush,9:00,22:00,TRUE
+150,Botsford and Sons,Pakistani,Expensive,Battery Park City,9:00,22:00,TRUE
+151,Kutch-Legros,Yemeni,Expensive,Lower Manhattan,9:00,22:00,FALSE
+152,Conn LLC,Bahraini,Cheap,Kips Bay,9:00,22:00,TRUE
+153,"Jenkins, Gorczany and Toy",Korean,Cheap,Morningside Heights,9:00,22:00,TRUE
+154,"Moen, Nolan and Collins",Georgian,Medium,Prospect Heights,9:00,22:00,FALSE
+155,"Frami, Hammes and Grimes",Austrian,Cheap,Park Slope,9:00,22:00,TRUE
+156,Lockman-Wisozk,Japanese,Cheap,Washington Heights,9:00,22:00,TRUE
+157,"Kunde, Feest and Yost",French,Medium,Brighton Beach,9:00,22:00,TRUE
+158,Glover-Zulauf,Turkish,Medium,Sunnyside,9:00,22:00,TRUE
+159,Fay-Leffler,Afghan,Cheap,SoHo,9:00,22:00,FALSE
+160,"Hettinger, McKenzie and Lehner",Turkish,Expensive,Forest Hills,9:00,22:00,FALSE
+161,Kirlin-Yundt,Russian,Cheap,Times Square,9:00,22:00,TRUE
+162,Reichel LLC,Lebanese,Medium,Washington Heights,9:00,22:00,FALSE
+163,Marquardt-Lubowitz,Pakistani,Medium,Jamaica,9:00,22:00,TRUE
+164,"Reynolds, O'Conner and Grant",Portuguese,Expensive,Bay Ridge,9:00,22:00,TRUE
+165,Flatley and Sons,Yemeni,Expensive,Chinatown,9:00,22:00,TRUE
+166,"Walter, Rath and Kuvalis",Indonesian,Medium,Kips Bay,9:00,22:00,TRUE
+167,Gerhold Inc,Azerbaijani,Cheap,Forest Hills,9:00,22:00,TRUE
+168,Franecki-Osinski,Sri Lankan,Expensive,Greenwich Village,9:00,22:00,TRUE
+169,Schmitt-Kuphal,Danish,Cheap,Gramercy,9:00,22:00,TRUE
+170,"Collier, Cole and Purdy",Romanian,Medium,Bensonhurst,9:00,22:00,TRUE
+171,"Fay, King and Mayert",Jordanian,Cheap,Little Italy,9:00,22:00,TRUE
+172,Wisozk-Runolfsdottir,Sri Lankan,Cheap,Midtown,9:00,22:00,TRUE
+173,Hegmann LLC,Bulgarian,Cheap,Bushwick,9:00,22:00,FALSE
+174,Bahringer-Walter,Ethiopian,Medium,Woodside,9:00,22:00,FALSE
+175,Price-Russel,Bangladeshi,Cheap,Williamsburg,9:00,22:00,FALSE
+176,"Leannon, Hills and Hauck",Vietnamese,Cheap,Crown Heights,9:00,22:00,FALSE
+177,Wyman Group,Norwegian,Cheap,Bensonhurst,9:00,22:00,FALSE
+178,"Mayer, Larkin and Casper",Slovenian,Cheap,East Harlem,9:00,22:00,FALSE
+179,Leuschke Group,Latvian,Cheap,Forest Hills,9:00,22:00,TRUE
+180,Wiza and Sons,Bangladeshi,Cheap,Long Island City,9:00,22:00,TRUE
+181,"Price, O'Connell and Ullrich",Qatari,Expensive,Times Square,9:00,22:00,TRUE
+182,"Halvorson, Sauer and Lubowitz",Australian,Medium,Woodside,9:00,22:00,FALSE
+183,Sanford and Sons,Bangladeshi,Expensive,Hell's Kitchen,9:00,22:00,FALSE
+184,"Pollich, Emard and Schmitt",Australian,Medium,Upper East Side,9:00,22:00,TRUE
+185,Daniel Inc,American,Cheap,Hell's Kitchen,9:00,22:00,TRUE
+186,"Parisian, Ondricka and Dicki",Moroccan,Medium,Jamaica,9:00,22:00,TRUE
+187,Mills-Larkin,Austrian,Expensive,Crown Heights,9:00,22:00,TRUE
+188,Kling-Gerlach,Brazilian,Expensive,Ridgewood,9:00,22:00,TRUE
+189,Schiller LLC,Emirati,Medium,Elmhurst,9:00,22:00,TRUE
+190,Ankunding Group,Hungarian,Expensive,Inwood,9:00,22:00,TRUE
+191,"Conroy, Dicki and Berge",Israeli,Medium,Coney Island,9:00,22:00,TRUE
+192,Rohan-Weissnat,Slovenian,Cheap,Flatbush,9:00,22:00,TRUE
+193,West LLC,Saudi Arabian,Cheap,Morningside Heights,9:00,22:00,FALSE
+194,"Mohr, Larson and Erdman",Indian,Expensive,Inwood,9:00,22:00,FALSE
+195,Wehner-Dibbert,Kazakh,Expensive,NoHo,9:00,22:00,FALSE
+196,Tillman and Sons,Japanese,Cheap,Times Square,9:00,22:00,TRUE
+197,Pollich-Ryan,Sri Lankan,Medium,Flushing,9:00,22:00,TRUE
+198,Raynor-Lemke,Chinese,Cheap,Hell's Kitchen,9:00,22:00,FALSE
+199,Von Group,Vietnamese,Medium,Washington Heights,9:00,22:00,FALSE
+200,Veum and Sons,Ukrainian,Cheap,Lower East Side,9:00,22:00,FALSE
+201,Champlin-Von,Nigerian,Medium,East Harlem,9:00,22:00,TRUE
+202,Muller LLC,Jordanian,Medium,Woodside,9:00,22:00,FALSE
+203,McDermott-Terry,Austrian,Expensive,Elmhurst,9:00,22:00,TRUE
+204,Leuschke-Mraz,Polish,Medium,Flatiron District,9:00,22:00,TRUE
+205,"Sporer, Wunsch and Breitenberg",Romanian,Expensive,Upper East Side,9:00,22:00,TRUE
+206,Schuppe-Boehm,Cuban,Cheap,Murray Hill,9:00,22:00,FALSE
+207,Schaefer-Altenwerth,Slovak,Medium,Jamaica,9:00,22:00,TRUE
+208,Graham and Sons,Palestinian,Cheap,Chinatown,9:00,22:00,FALSE
+209,"Harber, Barrows and Prohaska",Ethiopian,Cheap,Williamsburg,9:00,22:00,TRUE
+210,Leffler-Wilkinson,Palestinian,Expensive,Chinatown,9:00,22:00,TRUE
+211,Hauck LLC,Pakistani,Expensive,Flatiron District,9:00,22:00,FALSE
+212,"Labadie, Krajcik and Jenkins",Slovenian,Medium,Upper West Side,9:00,22:00,TRUE
+213,Stracke and Sons,Italian,Cheap,Hamilton Heights,9:00,22:00,FALSE
+214,Bahringer and Sons,Peruvian,Cheap,Battery Park City,9:00,22:00,TRUE
+215,"McDermott, Nader and Nolan",Jordanian,Cheap,Lower Manhattan,9:00,22:00,FALSE
+216,Lockman-Kilback,Malaysian,Medium,Kips Bay,9:00,22:00,FALSE
+217,Homenick-Leuschke,Indonesian,Medium,Washington Heights,9:00,22:00,FALSE
+218,Brown LLC,Emirati,Expensive,Washington Heights,9:00,22:00,TRUE
+219,"Harris, Gutmann and Block",Greek,Cheap,Crown Heights,9:00,22:00,FALSE
+220,"Wolff, O'Hara and Morissette",Romanian,Cheap,Chinatown,9:00,22:00,FALSE
+221,Collier-Heaney,German,Expensive,Brighton Beach,9:00,22:00,FALSE
+222,Cassin and Sons,Caribbean,Expensive,Sutton Place,9:00,22:00,TRUE
+223,"Romaguera, Waters and Schuppe",Caribbean,Expensive,Elmhurst,9:00,22:00,TRUE
+224,Pfannerstill-Yost,Afghan,Expensive,Upper West Side,9:00,22:00,TRUE
+225,"Kessler, Lindgren and Johnston",Icelandic,Cheap,Jamaica,9:00,22:00,TRUE
+226,"Davis, Huel and Kautzer",American,Cheap,Ridgewood,9:00,22:00,TRUE
+227,Willms Inc,Tajik,Medium,Long Island City,9:00,22:00,TRUE
+228,Reinger-Smith,Yemeni,Expensive,Chelsea,9:00,22:00,FALSE
+229,Donnelly-Bartell,Chinese,Medium,Gramercy,9:00,22:00,FALSE
+230,"Murphy, Mayert and Raynor",South African,Medium,Flatbush,9:00,22:00,TRUE
+231,Thompson Inc,Norwegian,Medium,Chinatown,9:00,22:00,TRUE
+232,Kunze-Rempel,Hungarian,Cheap,Lower East Side,9:00,22:00,FALSE
+233,Nader Group,Pakistani,Cheap,Crown Heights,9:00,22:00,FALSE
+234,"Kuhic, Borer and Okuneva",Romanian,Medium,Gramercy,9:00,22:00,FALSE
+235,"Renner, Little and Beatty",Indonesian,Expensive,Upper East Side,9:00,22:00,FALSE
+236,Wuckert-Buckridge,Swiss,Medium,Inwood,9:00,22:00,TRUE
+237,Dibbert LLC,Swedish,Expensive,Little Italy,9:00,22:00,TRUE
+238,Hartmann Group,Turkish,Cheap,Woodside,9:00,22:00,FALSE
+239,Schowalter-Bogisich,Malaysian,Medium,Greenpoint,9:00,22:00,FALSE
+240,Lindgren-Renner,Brazilian,Medium,Hamilton Heights,9:00,22:00,FALSE
+241,Rohan Inc,Argentine,Medium,Harlem,9:00,22:00,FALSE
+242,"Mayer, Goyette and MacGyver",Lebanese,Cheap,Financial District,9:00,22:00,TRUE
+243,Donnelly-Rolfson,Kazakh,Cheap,Ridgewood,9:00,22:00,FALSE
+244,"Ziemann, Yundt and Borer",Belgian,Cheap,SoHo,9:00,22:00,FALSE
+245,Hoeger Inc,Nepali,Expensive,East Village,9:00,22:00,TRUE
+246,Emmerich-VonRueden,Spanish,Medium,Upper East Side,9:00,22:00,FALSE
+247,Spencer-Shields,Jordanian,Expensive,Gramercy,9:00,22:00,TRUE
+248,"Roberts, Jones and Cremin",Cuban,Medium,Astoria,9:00,22:00,FALSE
+249,"Lind, Senger and Walter",Afghan,Medium,Jamaica,9:00,22:00,FALSE
+250,Herman-Keebler,Portuguese,Medium,Flatbush,9:00,22:00,FALSE
+251,White LLC,Latvian,Medium,Gramercy,9:00,22:00,TRUE
+252,"Reilly, Johnson and Bergstrom",Croatian,Expensive,Bushwick,9:00,22:00,TRUE
+253,Cronin-Abernathy,Ethiopian,Medium,Harlem,9:00,22:00,FALSE
+254,"Collins, Pfeffer and Boyle",Kenyan,Cheap,Kips Bay,9:00,22:00,FALSE
+255,"Herman, Boyer and Weimann",Swiss,Cheap,Times Square,9:00,22:00,TRUE
+256,Leannon-Keeling,Sri Lankan,Expensive,Morningside Heights,9:00,22:00,TRUE
+257,"Kovacek, Wolff and Schuster",Norwegian,Medium,Gramercy,9:00,22:00,FALSE
+258,"Schmitt, Johns and Bartoletti",Mediterranean,Cheap,Coney Island,9:00,22:00,TRUE
+259,"McDermott, Brekke and MacGyver",Tajik,Cheap,Hell's Kitchen,9:00,22:00,FALSE
+260,Wisoky-Torphy,Turkish,Cheap,Park Slope,9:00,22:00,TRUE
+261,"Erdman, O'Connell and Miller",Egyptian,Medium,East Village,9:00,22:00,TRUE
+262,"Robel, Hoppe and Klocko",Ethiopian,Cheap,SoHo,9:00,22:00,TRUE
+263,Tremblay Group,Indian,Cheap,Flatiron District,9:00,22:00,FALSE
+264,"Kutch, D'Amore and Cassin",Belgian,Expensive,Sutton Place,9:00,22:00,TRUE
+265,Sipes and Sons,Vietnamese,Cheap,Nolita,9:00,22:00,FALSE
+266,"Thompson, Greenholt and Turner",Sri Lankan,Cheap,Williamsburg,9:00,22:00,FALSE
+267,Moore and Sons,Pakistani,Cheap,Greenwich Village,9:00,22:00,FALSE
+268,Schneider Inc,Austrian,Medium,Astoria,9:00,22:00,FALSE
+269,"Walker, Funk and Stroman",Yemeni,Cheap,Crown Heights,9:00,22:00,FALSE
+270,Schowalter-Muller,German,Expensive,Williamsburg,9:00,22:00,FALSE
+271,"Klocko, Streich and Lemke",French,Cheap,Washington Heights,9:00,22:00,FALSE
+272,Rosenbaum-Conn,Mediterranean,Expensive,Sutton Place,9:00,22:00,FALSE
+273,"Pacocha, Green and Kemmer",Caribbean,Medium,Battery Park City,9:00,22:00,TRUE
+274,Lehner-Casper,Kazakh,Expensive,Astoria,9:00,22:00,TRUE
+275,Bayer-Hills,Slovak,Expensive,Crown Heights,9:00,22:00,TRUE
+276,Bergnaum-Lebsack,Kazakh,Cheap,Long Island City,9:00,22:00,TRUE
+277,Windler-Greenholt,Bahraini,Cheap,Little Italy,9:00,22:00,FALSE
+278,DuBuque LLC,Austrian,Cheap,Greenpoint,9:00,22:00,TRUE
+279,"Sporer, O'Hara and Champlin",Malaysian,Cheap,SoHo,9:00,22:00,FALSE
+280,"Mayer, Franecki and Goldner",Yemeni,Medium,Woodside,9:00,22:00,TRUE
+281,Dooley Inc,Romanian,Expensive,Brighton Beach,9:00,22:00,FALSE
+282,Windler-Jenkins,Polish,Expensive,Ridgewood,9:00,22:00,TRUE
+283,Shanahan-Fahey,Japanese,Cheap,East Harlem,9:00,22:00,TRUE
+284,"Morar, Zemlak and Hudson",Italian,Expensive,Woodside,9:00,22:00,TRUE
+285,"Collins, Glover and Beahan",Malaysian,Expensive,Jackson Heights,9:00,22:00,FALSE
+286,"Marquardt, Nolan and Feil",Bahraini,Expensive,Jamaica,9:00,22:00,TRUE
+287,Halvorson-King,Indonesian,Cheap,Williamsburg,9:00,22:00,TRUE
+288,Reynolds-Schoen,Turkish,Expensive,Nolita,9:00,22:00,TRUE
+289,"Weber, Muller and Tillman",Indian,Expensive,Astoria,9:00,22:00,TRUE
+290,Kohler and Sons,Estonian,Medium,Greenwich Village,9:00,22:00,FALSE
+291,Lehner LLC,Saudi Arabian,Cheap,Flushing,9:00,22:00,TRUE
+292,"Runte, Kunze and Rath",Tajik,Expensive,Flatiron District,9:00,22:00,FALSE
+293,"Balistreri, O'Conner and Parker",Peruvian,Medium,Bay Ridge,9:00,22:00,FALSE
+294,"Hauck, Roob and Nikolaus",Swiss,Cheap,Prospect Heights,9:00,22:00,TRUE
+295,Jast and Sons,Iraqi,Cheap,Chelsea,9:00,22:00,TRUE
+296,Strosin Group,Swedish,Medium,Hell's Kitchen,9:00,22:00,TRUE
+297,"Runolfsson, Balistreri and Cummings",Iranian,Cheap,Flushing,9:00,22:00,FALSE
+298,"Jacobson, Skiles and Schmeler",Icelandic,Medium,Crown Heights,9:00,22:00,FALSE
+299,Strosin LLC,French,Medium,Hamilton Heights,9:00,22:00,TRUE
+300,"Volkman, Hudson and Brakus",Lebanese,Cheap,NoHo,9:00,22:00,TRUE
+301,"Zieme, Bashirian and Hirthe",Peruvian,Medium,Prospect Heights,9:00,22:00,TRUE
+302,"Stamm, Crooks and Senger",Hungarian,Expensive,Sutton Place,9:00,22:00,FALSE
+303,"Senger, Mayert and Rath",Mediterranean,Cheap,Hell's Kitchen,9:00,22:00,FALSE
+304,West Group,Austrian,Cheap,Jamaica,9:00,22:00,FALSE
+305,Donnelly Group,Romanian,Expensive,SoHo,9:00,22:00,FALSE
+306,Dickens-Heidenreich,Vietnamese,Medium,Flatiron District,9:00,22:00,TRUE
+307,Becker Group,Russian,Cheap,Jamaica,9:00,22:00,TRUE
+308,Jacobs Group,Nepali,Medium,Battery Park City,9:00,22:00,FALSE
+309,"Kovacek, Vandervort and Lind",Danish,Medium,Park Slope,9:00,22:00,FALSE
+310,"Rippin, Leannon and Terry",Argentine,Medium,Prospect Heights,9:00,22:00,TRUE
+311,Corwin-Hilpert,Russian,Cheap,Jamaica,9:00,22:00,FALSE
+312,Crist-Williamson,Bangladeshi,Expensive,Times Square,9:00,22:00,FALSE
+313,Farrell-Goodwin,Chinese,Medium,Lower East Side,9:00,22:00,FALSE
+314,"Kuhlman, Gislason and Doyle",Lebanese,Cheap,Hell's Kitchen,9:00,22:00,TRUE
+315,Dare-Schamberger,Ukrainian,Medium,Elmhurst,9:00,22:00,TRUE
+316,Barrows Group,Slovenian,Cheap,Coney Island,9:00,22:00,TRUE
+317,"Kutch, Schumm and Considine",Portuguese,Medium,SoHo,9:00,22:00,FALSE
+318,"Bailey, Funk and Predovic",Austrian,Medium,Coney Island,9:00,22:00,FALSE
+319,Torphy Inc,Brazilian,Medium,Hell's Kitchen,9:00,22:00,FALSE
+320,"Bayer, Wiza and Thiel",Korean,Cheap,Park Slope,9:00,22:00,TRUE
+321,Kling-Jacobs,Mexican,Medium,Morningside Heights,9:00,22:00,FALSE
+322,Gibson-Schaefer,Austrian,Medium,Sunnyside,9:00,22:00,FALSE
+323,Abbott-Maggio,Ghanaian,Medium,Long Island City,9:00,22:00,FALSE
+324,Gleichner Group,British,Expensive,Brighton Beach,9:00,22:00,FALSE
+325,O'Connell-Spencer,Nigerian,Expensive,Forest Hills,9:00,22:00,FALSE
+326,Boyer-Keebler,Turkish,Medium,Astoria,9:00,22:00,FALSE
+327,Zboncak LLC,Norwegian,Cheap,Chinatown,9:00,22:00,FALSE
+328,Breitenberg-Schmidt,Uzbek,Cheap,Morningside Heights,9:00,22:00,FALSE
+329,"Williamson, Tremblay and Klein",Danish,Expensive,Rego Park,9:00,22:00,FALSE
+330,"Littel, Bednar and Hammes",Jordanian,Medium,Washington Heights,9:00,22:00,FALSE
+331,Trantow-Kling,Slovak,Medium,Upper East Side,9:00,22:00,FALSE
+332,"Kirlin, Fay and McKenzie",Croatian,Cheap,West Village,9:00,22:00,FALSE
+333,Bednar-Bartoletti,Swiss,Expensive,Coney Island,9:00,22:00,TRUE
+334,Stiedemann Inc,Thai,Expensive,Nolita,9:00,22:00,FALSE
+335,Reichert Inc,Portuguese,Medium,Chinatown,9:00,22:00,TRUE
+336,Armstrong Inc,Swiss,Medium,Chelsea,9:00,22:00,TRUE
+337,Gibson Inc,Emirati,Medium,Morningside Heights,9:00,22:00,FALSE
+338,Walker-Zemlak,Peruvian,Medium,Harlem,9:00,22:00,TRUE
+339,"Thompson, Kemmer and Waters",Vietnamese,Medium,Kips Bay,9:00,22:00,TRUE
+340,Upton-Marks,Korean,Expensive,Gramercy,9:00,22:00,FALSE
+341,Davis-Reynolds,Qatari,Cheap,Chinatown,9:00,22:00,FALSE
+342,"Herman, Lockman and Brekke",Swedish,Medium,Sunnyside,9:00,22:00,FALSE
+343,Leannon-Steuber,Russian,Expensive,Elmhurst,9:00,22:00,FALSE
+344,Moore Inc,Azerbaijani,Medium,Greenpoint,9:00,22:00,FALSE
+345,Anderson-Hansen,Mediterranean,Medium,Flatiron District,9:00,22:00,FALSE
+346,"Goodwin, Strosin and Marquardt",Kenyan,Expensive,Nolita,9:00,22:00,FALSE
+347,Kshlerin-Walsh,Romanian,Medium,East Village,9:00,22:00,FALSE
+348,D'Amore-Bruen,Malaysian,Cheap,Nolita,9:00,22:00,FALSE
+349,"Sanford, Ryan and Bogan",Icelandic,Expensive,Inwood,9:00,22:00,TRUE
+350,Kemmer and Sons,Bulgarian,Cheap,Morningside Heights,9:00,22:00,TRUE
+351,Larson-Bauch,Cuban,Expensive,Kips Bay,9:00,22:00,TRUE
+352,"Mante, Casper and Gutmann",Malaysian,Expensive,Jackson Heights,9:00,22:00,TRUE
+353,Treutel-Ruecker,Austrian,Expensive,East Village,9:00,22:00,FALSE
+354,Bruen-Jenkins,Georgian,Expensive,Times Square,9:00,22:00,TRUE
+355,Rice-O'Keefe,Vietnamese,Expensive,Lower East Side,9:00,22:00,TRUE
+356,Toy Group,Swiss,Cheap,Flatiron District,9:00,22:00,FALSE
+357,"Maggio, Lakin and Senger",Romanian,Medium,Upper East Side,9:00,22:00,TRUE
+358,Wiza-Zieme,Nepali,Expensive,Sutton Place,9:00,22:00,TRUE
+359,Schmeler-Murphy,Emirati,Cheap,Sutton Place,9:00,22:00,TRUE
+360,Price-Toy,Latvian,Cheap,Midtown,9:00,22:00,FALSE
+361,Wehner-Jacobs,Norwegian,Expensive,Little Italy,9:00,22:00,FALSE
+362,"Crona, Franecki and Abernathy",French,Medium,Upper East Side,9:00,22:00,TRUE
+363,Cummerata Inc,Portuguese,Medium,Flatiron District,9:00,22:00,TRUE
+364,Abbott LLC,Estonian,Cheap,Jamaica,9:00,22:00,FALSE
+365,"Ruecker, Wolf and McGlynn",Brazilian,Expensive,Sutton Place,9:00,22:00,FALSE
+366,Kerluke-Harvey,Croatian,Cheap,Coney Island,9:00,22:00,TRUE
+367,"DuBuque, Torphy and Pfannerstill",Belgian,Medium,Upper West Side,9:00,22:00,FALSE
+368,Pfannerstill-Deckow,Kenyan,Cheap,Gramercy,9:00,22:00,TRUE
+369,"Mraz, Sawayn and Leannon",Danish,Expensive,Coney Island,9:00,22:00,TRUE
+370,Powlowski-Steuber,Indonesian,Expensive,NoHo,9:00,22:00,TRUE
+371,"Ullrich, Bayer and Pollich",Finnish,Medium,Bushwick,9:00,22:00,FALSE
+372,Beier-Kerluke,Croatian,Cheap,East Harlem,9:00,22:00,TRUE
+373,Brown Group,Danish,Cheap,Financial District,9:00,22:00,TRUE
+374,"Green, Labadie and Wintheiser",South African,Medium,Flushing,9:00,22:00,TRUE
+375,Bogisich-Walter,Icelandic,Expensive,Sutton Place,9:00,22:00,TRUE
+376,Simonis-Goyette,Indonesian,Cheap,Jamaica,9:00,22:00,FALSE
+377,Brekke-Kessler,Indonesian,Medium,Flatbush,9:00,22:00,FALSE
+378,Rempel-Spinka,Iraqi,Cheap,Chelsea,9:00,22:00,FALSE
+379,Wolff-Mraz,Thai,Expensive,East Harlem,9:00,22:00,TRUE
+380,"Bosco, Lang and Skiles",Mediterranean,Medium,Woodside,9:00,22:00,TRUE
+381,"Blick, Wuckert and Hessel",Iranian,Expensive,Kips Bay,9:00,22:00,TRUE
+382,"Kertzmann, Corwin and Connelly",French,Medium,Upper West Side,9:00,22:00,TRUE
+383,Leannon and Sons,Danish,Cheap,Nolita,9:00,22:00,TRUE
+384,DuBuque Inc,South African,Expensive,Midtown,9:00,22:00,FALSE
+385,Schumm and Sons,Egyptian,Cheap,East Village,9:00,22:00,TRUE
+386,Daugherty-Schaefer,Lebanese,Medium,Bensonhurst,9:00,22:00,FALSE
+387,Nienow-Romaguera,Uzbek,Medium,Jamaica,9:00,22:00,FALSE
+388,Walker-Rolfson,Tajik,Medium,Brighton Beach,9:00,22:00,FALSE
+389,"Hettinger, Koepp and Willms",Pakistani,Medium,Park Slope,9:00,22:00,FALSE
+390,Walter-Hamill,Pakistani,Cheap,Battery Park City,9:00,22:00,FALSE
+391,Swaniawski-White,Iraqi,Cheap,West Village,9:00,22:00,TRUE
+392,Greenfelder LLC,Australian,Cheap,Sunnyside,9:00,22:00,FALSE
+393,Thiel Inc,Azerbaijani,Cheap,Washington Heights,9:00,22:00,FALSE
+394,"Rosenbaum, Gorczany and Williamson",Jordanian,Cheap,Jackson Heights,9:00,22:00,FALSE
+395,Kemmer LLC,Iraqi,Medium,Forest Hills,9:00,22:00,TRUE
+396,Block-Keeling,Estonian,Cheap,Crown Heights,9:00,22:00,TRUE
+397,"Witting, Osinski and Collins",Ethiopian,Expensive,Greenpoint,9:00,22:00,TRUE
+398,"Howe, Hamill and Steuber",Turkish,Cheap,Upper East Side,9:00,22:00,TRUE
+399,McCullough Group,Russian,Medium,Bay Ridge,9:00,22:00,TRUE
+400,Carroll LLC,Lithuanian,Expensive,Bushwick,9:00,22:00,FALSE
+401,Haag-Keeling,Czech,Cheap,Nolita,9:00,22:00,TRUE
+402,Barrows LLC,Kazakh,Expensive,Battery Park City,9:00,22:00,TRUE
+403,Lubowitz LLC,Mongolian,Medium,Tribeca,9:00,22:00,FALSE
+404,Schultz-Leffler,Korean,Medium,Ridgewood,9:00,22:00,FALSE
+405,Deckow-Haley,Bahraini,Expensive,Flatiron District,9:00,22:00,FALSE
+406,"Schowalter, Balistreri and Langosh",Ukrainian,Expensive,Chelsea,9:00,22:00,TRUE
+407,"Green, Kovacek and Blick",Azerbaijani,Cheap,Lower Manhattan,9:00,22:00,TRUE
+408,"Goldner, Schimmel and Buckridge",Cuban,Cheap,Lower Manhattan,9:00,22:00,FALSE
+409,"Pfeffer, Bednar and Labadie",Japanese,Medium,Lower East Side,9:00,22:00,FALSE
+410,"Kling, Renner and Walker",Malaysian,Cheap,Gramercy,9:00,22:00,FALSE
+411,"Armstrong, Kemmer and Glover",Cuban,Cheap,Chinatown,9:00,22:00,FALSE
+412,Wyman Group,Estonian,Medium,Hamilton Heights,9:00,22:00,FALSE
+413,Lebsack Group,Danish,Medium,West Village,9:00,22:00,TRUE
+414,Skiles-Huel,Romanian,Cheap,Upper East Side,9:00,22:00,FALSE
+415,Tremblay Inc,Bulgarian,Medium,Park Slope,9:00,22:00,TRUE
+416,Ward LLC,Spanish,Cheap,East Harlem,9:00,22:00,FALSE
+417,"O'Connell, Schneider and Yundt",Saudi Arabian,Expensive,Rego Park,9:00,22:00,TRUE
+418,Yost-Bednar,British,Cheap,Sunnyside,9:00,22:00,TRUE
+419,"Mueller, Luettgen and Graham",Swiss,Cheap,Brighton Beach,9:00,22:00,FALSE
+420,"Murazik, Fritsch and Kovacek",Nigerian,Expensive,Woodside,9:00,22:00,TRUE
+421,Turcotte-Heller,Polish,Cheap,Crown Heights,9:00,22:00,TRUE
+422,"Reichel, Champlin and Heidenreich",Jordanian,Expensive,Greenwich Village,9:00,22:00,FALSE
+423,DuBuque-Grant,Jordanian,Expensive,Woodside,9:00,22:00,TRUE
+424,Thiel-Rice,American,Medium,Bushwick,9:00,22:00,FALSE
+425,Wilderman Inc,Uzbek,Cheap,East Harlem,9:00,22:00,TRUE
+426,Corwin and Sons,Argentine,Expensive,Bay Ridge,9:00,22:00,FALSE
+427,"Balistreri, Kassulke and Jaskolski",Indian,Expensive,Hamilton Heights,9:00,22:00,TRUE
+428,"Hodkiewicz, Lindgren and Dicki",Israeli,Cheap,Lower East Side,9:00,22:00,TRUE
+429,"Mante, Schaefer and Abshire",Russian,Expensive,Financial District,9:00,22:00,TRUE
+430,"Reilly, Gibson and Macejkovic",Kazakh,Cheap,Chelsea,9:00,22:00,TRUE
+431,Purdy and Sons,Korean,Expensive,Chelsea,9:00,22:00,FALSE
+432,Crooks-Ondricka,Slovenian,Medium,Brighton Beach,9:00,22:00,FALSE
+433,"Wisoky, Marvin and Parisian",Ghanaian,Cheap,Long Island City,9:00,22:00,FALSE
+434,Corkery and Sons,Chinese,Cheap,Financial District,9:00,22:00,FALSE
+435,"Aufderhar, Bayer and Auer",Greek,Medium,SoHo,9:00,22:00,FALSE
+436,"Paucek, Rolfson and Langworth",Azerbaijani,Cheap,Crown Heights,9:00,22:00,TRUE
+437,Jast Inc,Mediterranean,Expensive,Financial District,9:00,22:00,TRUE
+438,Greenholt-Schimmel,Filipino,Cheap,Washington Heights,9:00,22:00,FALSE
+439,Altenwerth LLC,Mongolian,Cheap,Park Slope,9:00,22:00,TRUE
+440,Fahey Group,Iraqi,Medium,Rego Park,9:00,22:00,TRUE
+441,"Windler, Buckridge and Leffler",Peruvian,Cheap,Rego Park,9:00,22:00,TRUE
+442,Effertz LLC,Peruvian,Cheap,Jackson Heights,9:00,22:00,FALSE
+443,"Vandervort, Greenholt and Predovic",Danish,Medium,Park Slope,9:00,22:00,FALSE
+444,Thiel-Kling,Emirati,Expensive,Sutton Place,9:00,22:00,TRUE
+445,Abbott-Zulauf,Bahraini,Medium,Bayside,9:00,22:00,TRUE
+446,Auer-Fisher,Danish,Medium,Woodside,9:00,22:00,FALSE
+447,"O'Kon, Collier and Upton",Egyptian,Expensive,Williamsburg,9:00,22:00,FALSE
+448,Windler Inc,Brazilian,Medium,Upper West Side,9:00,22:00,FALSE
+449,Bogan-Muller,Finnish,Expensive,Jackson Heights,9:00,22:00,FALSE
+450,"Robel, Gorczany and Kunde",Kyrgyz,Medium,Chinatown,9:00,22:00,FALSE
+451,Fisher Inc,Nigerian,Expensive,Little Italy,9:00,22:00,TRUE
+452,Hoeger LLC,Norwegian,Medium,Upper West Side,9:00,22:00,FALSE
+453,Bauch and Sons,Polish,Cheap,Murray Hill,9:00,22:00,TRUE
+454,Morissette and Sons,Sri Lankan,Expensive,Times Square,9:00,22:00,TRUE
+455,Gottlieb LLC,Slovak,Expensive,Prospect Heights,9:00,22:00,TRUE
+456,Beahan Group,Danish,Medium,NoHo,9:00,22:00,FALSE
+457,Hilpert and Sons,Argentine,Cheap,Battery Park City,9:00,22:00,TRUE
+458,Reichel-Wintheiser,Finnish,Medium,Upper East Side,9:00,22:00,TRUE
+459,Predovic LLC,Croatian,Cheap,Elmhurst,9:00,22:00,FALSE
+460,Becker-Schiller,Slovak,Medium,Flushing,9:00,22:00,TRUE
+461,Wiza Inc,Qatari,Expensive,East Harlem,9:00,22:00,FALSE
+462,"O'Connell, Johns and Kohler",Swedish,Medium,Greenpoint,9:00,22:00,TRUE
+463,"Block, Marvin and Kassulke",Australian,Cheap,Upper West Side,9:00,22:00,TRUE
+464,"Koch, Farrell and Hintz",Bulgarian,Medium,West Village,9:00,22:00,TRUE
+465,Mraz LLC,Korean,Expensive,Rego Park,9:00,22:00,FALSE
+466,D'Amore-Hegmann,Swiss,Medium,Bensonhurst,9:00,22:00,FALSE
+467,Conn Inc,Israeli,Cheap,Flushing,9:00,22:00,FALSE
+468,Ryan Group,Brazilian,Expensive,Flatiron District,9:00,22:00,TRUE
+469,Hand-Yundt,Japanese,Medium,Astoria,9:00,22:00,TRUE
+470,"Hettinger, Renner and Hodkiewicz",Georgian,Medium,Jackson Heights,9:00,22:00,TRUE
+471,Reilly Group,Ghanaian,Expensive,Midtown,9:00,22:00,TRUE
+472,Heathcote-Bogisich,Danish,Medium,East Village,9:00,22:00,TRUE
+473,Macejkovic Inc,Saudi Arabian,Expensive,Financial District,9:00,22:00,TRUE
+474,Lesch and Sons,Indian,Expensive,Brighton Beach,9:00,22:00,TRUE
+475,Williamson-Gleichner,Swiss,Medium,Midtown,9:00,22:00,TRUE
+476,Runte Group,Croatian,Expensive,Rego Park,9:00,22:00,FALSE
+477,Brown-Roob,Pakistani,Expensive,Flushing,9:00,22:00,TRUE
+478,"Spinka, Ruecker and Borer",Omani,Expensive,Prospect Heights,9:00,22:00,FALSE
+479,Thiel-Predovic,Slovak,Cheap,Bensonhurst,9:00,22:00,FALSE
+480,Schmidt LLC,Spanish,Cheap,Kips Bay,9:00,22:00,FALSE
+481,Daniel Inc,Danish,Medium,Kips Bay,9:00,22:00,TRUE
+482,"Marvin, Ferry and Legros",Nepali,Medium,Morningside Heights,9:00,22:00,TRUE
+483,Grady LLC,Argentine,Expensive,NoHo,9:00,22:00,TRUE
+484,"Towne, Goyette and Halvorson",Palestinian,Cheap,Jamaica,9:00,22:00,TRUE
+485,Bednar LLC,Finnish,Cheap,Astoria,9:00,22:00,FALSE
+486,"Abbott, Hyatt and Toy",Croatian,Medium,Little Italy,9:00,22:00,FALSE
+487,Volkman-Kreiger,Norwegian,Expensive,Forest Hills,9:00,22:00,FALSE
+488,"Treutel, Gorczany and Lebsack",Czech,Cheap,Kips Bay,9:00,22:00,FALSE
+489,Smitham-Wisoky,Kyrgyz,Cheap,Washington Heights,9:00,22:00,FALSE
+490,Gleason-Rodriguez,Sri Lankan,Medium,East Harlem,9:00,22:00,FALSE
+491,Williamson-Botsford,Russian,Expensive,SoHo,9:00,22:00,TRUE
+492,Donnelly-Gibson,Czech,Expensive,Crown Heights,9:00,22:00,FALSE
+493,Barrows-Wisoky,Slovak,Medium,Morningside Heights,9:00,22:00,TRUE
+494,Glover and Sons,Swedish,Medium,East Village,9:00,22:00,TRUE
+495,"Shanahan, Bogisich and Considine",Australian,Cheap,Rego Park,9:00,22:00,FALSE
+496,"Towne, Green and Lueilwitz",Portuguese,Cheap,Little Italy,9:00,22:00,TRUE
+497,"Miller, Bernier and Hyatt",Austrian,Cheap,Murray Hill,9:00,22:00,TRUE
+498,Tromp-Torphy,Armenian,Cheap,Coney Island,9:00,22:00,FALSE
+499,"Sauer, Kemmer and Kassulke",Croatian,Expensive,SoHo,9:00,22:00,FALSE
+500,Trantow and Sons,Korean,Expensive,Forest Hills,9:00,22:00,TRUE
+501,Walsh-Jaskolski,Omani,Expensive,Murray Hill,9:00,22:00,FALSE
+502,"Stoltenberg, Harvey and Torphy",Mongolian,Cheap,Flatbush,9:00,22:00,FALSE
+503,Becker Inc,Icelandic,Cheap,NoHo,9:00,22:00,TRUE
+504,Fahey-Block,Australian,Cheap,Kips Bay,9:00,22:00,TRUE
+505,Becker Group,Afghan,Expensive,Harlem,9:00,22:00,FALSE
+506,"Dickens, Bergstrom and Oberbrunner",Saudi Arabian,Expensive,Long Island City,9:00,22:00,TRUE
+507,Maggio Group,American,Expensive,Flushing,9:00,22:00,TRUE
+508,Wintheiser Inc,Danish,Medium,Inwood,9:00,22:00,TRUE
+509,Kertzmann and Sons,Ethiopian,Cheap,Morningside Heights,9:00,22:00,TRUE
+510,Bogisich-Fritsch,Pakistani,Cheap,Flatiron District,9:00,22:00,TRUE
+511,Armstrong LLC,Italian,Cheap,Lower Manhattan,9:00,22:00,TRUE
+512,O'Hara and Sons,Hungarian,Medium,Battery Park City,9:00,22:00,TRUE
+513,Glover-Emmerich,Yemeni,Cheap,Sutton Place,9:00,22:00,TRUE
+514,Kshlerin-Lockman,Afghan,Medium,Lower East Side,9:00,22:00,FALSE
+515,Koelpin-Glover,Israeli,Cheap,Gramercy,9:00,22:00,FALSE
+516,"Cassin, Hane and Wilderman",Qatari,Cheap,Crown Heights,9:00,22:00,TRUE
+517,"Schimmel, Hettinger and Toy",Saudi Arabian,Cheap,Battery Park City,9:00,22:00,TRUE
+518,Orn-Bayer,Bulgarian,Medium,Coney Island,9:00,22:00,TRUE
+519,"Welch, Nolan and Windler",Korean,Cheap,Bayside,9:00,22:00,TRUE
+520,"Nicolas, Thompson and Wiegand",Peruvian,Expensive,Astoria,9:00,22:00,FALSE
+521,"Zboncak, Smitham and Metz",Romanian,Cheap,Hell's Kitchen,9:00,22:00,FALSE
+522,"Kutch, Kuhic and Dare",Emirati,Medium,East Village,9:00,22:00,FALSE
+523,Huel-Botsford,Danish,Expensive,Crown Heights,9:00,22:00,TRUE
+524,"Swaniawski, Goodwin and Gibson",Hungarian,Expensive,Chinatown,9:00,22:00,FALSE
+525,Parisian Inc,Indian,Expensive,Bensonhurst,9:00,22:00,TRUE
+526,Robel-Kemmer,Georgian,Cheap,Hamilton Heights,9:00,22:00,FALSE
+527,"Mosciski, Schneider and Hilpert",Argentine,Expensive,Tribeca,9:00,22:00,TRUE
+528,Kilback and Sons,Lithuanian,Cheap,Flatiron District,9:00,22:00,TRUE
+529,Wilderman-Gulgowski,Russian,Cheap,Rego Park,9:00,22:00,TRUE
+530,Casper Group,Slovenian,Medium,NoHo,9:00,22:00,FALSE
+531,"Rutherford, Nicolas and Trantow",Indian,Medium,SoHo,9:00,22:00,TRUE
+532,"Feest, Kovacek and Bechtelar",Ukrainian,Cheap,Crown Heights,9:00,22:00,FALSE
+533,Shanahan-Rosenbaum,Russian,Cheap,Jamaica,9:00,22:00,FALSE
+534,Beatty Group,Filipino,Cheap,Murray Hill,9:00,22:00,FALSE
+535,Stroman and Sons,Kyrgyz,Cheap,East Village,9:00,22:00,FALSE
+536,"Dare, Paucek and Swaniawski",Lithuanian,Cheap,Elmhurst,9:00,22:00,FALSE
+537,O'Kon-Monahan,German,Cheap,NoHo,9:00,22:00,TRUE
+538,Lebsack Inc,Iraqi,Expensive,Bushwick,9:00,22:00,FALSE
+539,"Ebert, Erdman and Rippin",Yemeni,Expensive,Chinatown,9:00,22:00,FALSE
+540,Blick-Braun,Greek,Cheap,Lower East Side,9:00,22:00,FALSE
+541,Schmidt LLC,Bahraini,Expensive,Flatiron District,9:00,22:00,TRUE
+542,Gusikowski Group,Caribbean,Expensive,Elmhurst,9:00,22:00,FALSE
+543,Kemmer Inc,Spanish,Expensive,Flatiron District,9:00,22:00,TRUE
+544,Volkman and Sons,Pakistani,Medium,Bayside,9:00,22:00,FALSE
+545,"Hegmann, Gleason and Kertzmann",Israeli,Expensive,Lower East Side,9:00,22:00,TRUE
+546,Bergnaum-Wilkinson,Italian,Expensive,Times Square,9:00,22:00,FALSE
+547,Heathcote and Sons,Hungarian,Expensive,Long Island City,9:00,22:00,TRUE
+548,"Schaefer, King and Gleichner",Norwegian,Medium,East Harlem,9:00,22:00,FALSE
+549,"McDermott, King and Wisoky",Czech,Cheap,Chinatown,9:00,22:00,TRUE
+550,Yost LLC,Czech,Expensive,Astoria,9:00,22:00,FALSE
+551,"Torphy, Goldner and Koch",Caribbean,Cheap,Coney Island,9:00,22:00,FALSE
+552,Frami LLC,Caribbean,Medium,Harlem,9:00,22:00,TRUE
+553,Beer-Keebler,Lithuanian,Cheap,Nolita,9:00,22:00,TRUE
+554,Nikolaus-Mertz,Qatari,Expensive,Forest Hills,9:00,22:00,FALSE
+555,Corkery Inc,Finnish,Cheap,Rego Park,9:00,22:00,FALSE
+556,Schoen Inc,Nepali,Medium,Kips Bay,9:00,22:00,FALSE
+557,Lueilwitz-Lubowitz,Icelandic,Expensive,Chelsea,9:00,22:00,TRUE
+558,Mitchell-Feeney,Korean,Medium,Chinatown,9:00,22:00,TRUE
+559,"Walker, Nikolaus and Aufderhar",Filipino,Expensive,Little Italy,9:00,22:00,TRUE
+560,"Boyle, Swift and Roob",Ethiopian,Expensive,Rego Park,9:00,22:00,TRUE
+561,"Marks, Adams and Welch",Cuban,Medium,Williamsburg,9:00,22:00,FALSE
+562,Koss-Borer,Russian,Medium,Battery Park City,9:00,22:00,TRUE
+563,Feil-Boehm,Chinese,Expensive,Kips Bay,9:00,22:00,FALSE
+564,Runolfsson-Murphy,Yemeni,Expensive,East Harlem,9:00,22:00,TRUE
+565,Gulgowski and Sons,Finnish,Cheap,Hamilton Heights,9:00,22:00,TRUE
+566,Ebert LLC,Chinese,Medium,Greenwich Village,9:00,22:00,FALSE
+567,Emmerich-Heidenreich,Swedish,Expensive,Little Italy,9:00,22:00,FALSE
+568,Hegmann-Keebler,Nigerian,Medium,Flatiron District,9:00,22:00,FALSE
+569,Johnson-Roberts,Ukrainian,Cheap,Flushing,9:00,22:00,TRUE
+570,"Robel, Konopelski and West",Czech,Expensive,Washington Heights,9:00,22:00,FALSE
+571,"Lowe, Stehr and Brown",French,Medium,Hell's Kitchen,9:00,22:00,FALSE
+572,Schmidt-Ruecker,Lithuanian,Cheap,Hamilton Heights,9:00,22:00,FALSE
+573,Wintheiser Group,Latvian,Expensive,Chelsea,9:00,22:00,TRUE
+574,"Kessler, Douglas and Yundt",French,Medium,Greenpoint,9:00,22:00,FALSE
+575,"Hamill, Aufderhar and Hills",Lebanese,Medium,Sutton Place,9:00,22:00,FALSE
+576,Baumbach LLC,Estonian,Medium,SoHo,9:00,22:00,TRUE
+577,Jast and Sons,Chinese,Expensive,Brighton Beach,9:00,22:00,TRUE
+578,Conroy Inc,Finnish,Expensive,Washington Heights,9:00,22:00,TRUE
+579,Kiehn and Sons,Czech,Cheap,Flushing,9:00,22:00,FALSE
+580,Cormier-Mertz,Nigerian,Cheap,Financial District,9:00,22:00,FALSE
+581,"Boyle, Yost and Orn",Omani,Cheap,Little Italy,9:00,22:00,FALSE
+582,"Roberts, Wunsch and Anderson",Portuguese,Cheap,Gramercy,9:00,22:00,FALSE
+583,Huels Inc,Australian,Cheap,Hell's Kitchen,9:00,22:00,TRUE
+584,Schaden Inc,South African,Cheap,Bay Ridge,9:00,22:00,TRUE
+585,"Becker, Pollich and Mueller",Lithuanian,Expensive,Murray Hill,9:00,22:00,TRUE
+586,Paucek-Daugherty,Jordanian,Expensive,Long Island City,9:00,22:00,TRUE
+587,"Jast, Borer and Kovacek",Lebanese,Medium,Upper West Side,9:00,22:00,FALSE
+588,Pouros and Sons,Jordanian,Medium,Bay Ridge,9:00,22:00,FALSE
+589,West Group,Indonesian,Expensive,Chinatown,9:00,22:00,FALSE
+590,Kilback-Schinner,Lebanese,Cheap,Kips Bay,9:00,22:00,TRUE
+591,Bosco-Hayes,Nigerian,Cheap,Flushing,9:00,22:00,TRUE
+592,Orn-Weissnat,Latvian,Medium,Astoria,9:00,22:00,TRUE
+593,"Dooley, Dickens and Emmerich",Malaysian,Expensive,Bensonhurst,9:00,22:00,FALSE
+594,Grimes-Gleichner,Thai,Medium,Harlem,9:00,22:00,FALSE
+595,Pfannerstill Group,Russian,Cheap,Murray Hill,9:00,22:00,FALSE
+596,D'Amore-Mayert,Caribbean,Cheap,Flushing,9:00,22:00,FALSE
+597,Howe-Brakus,Argentine,Cheap,Midtown,9:00,22:00,FALSE
+598,Tremblay-Koelpin,Caribbean,Medium,Park Slope,9:00,22:00,TRUE
+599,Feest-Crooks,Sri Lankan,Cheap,East Harlem,9:00,22:00,TRUE
+600,Beer-Davis,Mongolian,Expensive,Bensonhurst,9:00,22:00,TRUE
+601,"Willms, Toy and Fay",Kenyan,Cheap,NoHo,9:00,22:00,TRUE
+602,Reichert-Spencer,Hungarian,Cheap,Murray Hill,9:00,22:00,FALSE
+603,"Wolff, Mosciski and Beatty",Kyrgyz,Expensive,Lower East Side,9:00,22:00,FALSE
+604,Boyer and Sons,Ethiopian,Cheap,Bushwick,9:00,22:00,FALSE
+605,Hand-White,Russian,Medium,Jackson Heights,9:00,22:00,FALSE
+606,Conn Inc,Icelandic,Medium,Long Island City,9:00,22:00,FALSE
+607,"Kshlerin, Hartmann and Cormier",Palestinian,Medium,Coney Island,9:00,22:00,FALSE
+608,Schmeler LLC,Nigerian,Cheap,Washington Heights,9:00,22:00,TRUE
+609,Lebsack Group,Azerbaijani,Medium,Lower Manhattan,9:00,22:00,TRUE
+610,Oberbrunner-Tremblay,Bangladeshi,Cheap,Midtown,9:00,22:00,FALSE
+611,Kulas Inc,Malaysian,Expensive,Bedford-Stuyvesant,9:00,22:00,FALSE
+612,"Lubowitz, Wolf and Kirlin",Peruvian,Medium,Sunnyside,9:00,22:00,TRUE
+613,Bednar Inc,Moroccan,Medium,Little Italy,9:00,22:00,TRUE
+614,"Larkin, Maggio and Wintheiser",Iraqi,Medium,Greenwich Village,9:00,22:00,FALSE
+615,Ankunding Group,Lithuanian,Cheap,Bushwick,9:00,22:00,TRUE
+616,Abshire LLC,Palestinian,Medium,Financial District,9:00,22:00,TRUE
+617,"Keebler, Cartwright and Harris",Bahraini,Cheap,Bedford-Stuyvesant,9:00,22:00,FALSE
+618,Bartell and Sons,Azerbaijani,Expensive,NoHo,9:00,22:00,TRUE
+619,O'Conner-Bayer,Saudi Arabian,Expensive,Financial District,9:00,22:00,FALSE
+620,"Yundt, Harber and Abbott",Bulgarian,Cheap,Inwood,9:00,22:00,FALSE
+621,"O'Kon, Bode and Prosacco",Cuban,Medium,Woodside,9:00,22:00,TRUE
+622,Daugherty Inc,German,Cheap,Jackson Heights,9:00,22:00,TRUE
+623,Yundt-Prohaska,Israeli,Medium,Kips Bay,9:00,22:00,TRUE
+624,Ryan-Larson,Yemeni,Cheap,Lower East Side,9:00,22:00,FALSE
+625,McGlynn-Murphy,Moroccan,Medium,Hell's Kitchen,9:00,22:00,TRUE
+626,Casper Group,Mongolian,Cheap,Crown Heights,9:00,22:00,FALSE
+627,Connelly-Waters,Malaysian,Medium,Times Square,9:00,22:00,FALSE
+628,"Larson, Toy and Dooley",Lebanese,Cheap,Bayside,9:00,22:00,FALSE
+629,Jacobs-D'Amore,French,Medium,Flatbush,9:00,22:00,TRUE
+630,Hilll LLC,Hungarian,Cheap,Lower East Side,9:00,22:00,FALSE
+631,"Stiedemann, Hauck and Nolan",Peruvian,Cheap,Upper East Side,9:00,22:00,FALSE
+632,"Bosco, Medhurst and Marvin",Portuguese,Expensive,Times Square,9:00,22:00,FALSE
+633,Thiel-Cummings,British,Expensive,Greenwich Village,9:00,22:00,TRUE
+634,Haag-Douglas,American,Expensive,Coney Island,9:00,22:00,TRUE
+635,Waters and Sons,Slovenian,Medium,Williamsburg,9:00,22:00,TRUE
+636,"Wilderman, Sawayn and Rosenbaum",German,Expensive,Nolita,9:00,22:00,FALSE
+637,Ruecker LLC,Ghanaian,Cheap,Astoria,9:00,22:00,FALSE
+638,"Hilll, Wuckert and Konopelski",Georgian,Medium,Sunnyside,9:00,22:00,TRUE
+639,"Ryan, Rogahn and Emmerich",Mongolian,Medium,Chinatown,9:00,22:00,FALSE
+640,McCullough-Howe,German,Cheap,Crown Heights,9:00,22:00,FALSE
+641,Wunsch-Yost,Saudi Arabian,Expensive,Tribeca,9:00,22:00,TRUE
+642,"Nolan, Leffler and Cormier",Chinese,Medium,Chinatown,9:00,22:00,TRUE
+643,Halvorson-Bergnaum,Nepali,Medium,Harlem,9:00,22:00,TRUE
+644,Howell-Frami,Iranian,Cheap,NoHo,9:00,22:00,FALSE
+645,Quitzon Group,Pakistani,Cheap,Rego Park,9:00,22:00,TRUE
+646,King-Wiza,Caribbean,Expensive,Woodside,9:00,22:00,FALSE
+647,Shanahan Inc,Moroccan,Medium,Nolita,9:00,22:00,FALSE
+648,Mann-Runolfsson,Iraqi,Cheap,Woodside,9:00,22:00,FALSE
+649,Wolff-Cruickshank,Azerbaijani,Cheap,Elmhurst,9:00,22:00,FALSE
+650,"Cronin, Wintheiser and Batz",Ghanaian,Expensive,Hamilton Heights,9:00,22:00,FALSE
+651,Spencer-Little,Qatari,Medium,Financial District,9:00,22:00,TRUE
+652,Treutel-Leffler,Sri Lankan,Expensive,NoHo,9:00,22:00,FALSE
+653,Hagenes Group,Estonian,Medium,Williamsburg,9:00,22:00,FALSE
+654,Haley-Wintheiser,Nepali,Cheap,Gramercy,9:00,22:00,FALSE
+655,Wuckert Group,Argentine,Medium,Rego Park,9:00,22:00,TRUE
+656,"Casper, Watsica and Rosenbaum",Peruvian,Cheap,Bayside,9:00,22:00,TRUE
+657,"Schuster, Swaniawski and Huel",Malaysian,Cheap,Jackson Heights,9:00,22:00,FALSE
+658,"Christiansen, Lowe and Lueilwitz",Slovenian,Cheap,Lower East Side,9:00,22:00,TRUE
+659,"Raynor, MacGyver and Auer",Cuban,Medium,Kips Bay,9:00,22:00,FALSE
+660,Schoen-Volkman,Japanese,Cheap,Flatiron District,9:00,22:00,TRUE
+661,Corkery-Braun,Norwegian,Cheap,Flatiron District,9:00,22:00,FALSE
+662,Kiehn LLC,Ghanaian,Cheap,Inwood,9:00,22:00,FALSE
+663,McKenzie-Treutel,Russian,Expensive,Sutton Place,9:00,22:00,TRUE
+664,Raynor-Reynolds,Czech,Cheap,Times Square,9:00,22:00,FALSE
+665,Mayer Group,Finnish,Expensive,East Village,9:00,22:00,TRUE
+666,Stiedemann Inc,Belgian,Expensive,Long Island City,9:00,22:00,FALSE
+667,Lueilwitz-Bergnaum,Armenian,Medium,Coney Island,9:00,22:00,FALSE
+668,Goodwin-Waters,Mediterranean,Expensive,Astoria,9:00,22:00,TRUE
+669,O'Connell Group,American,Medium,Upper West Side,9:00,22:00,FALSE
+670,"Stoltenberg, Lueilwitz and Bartell",Argentine,Expensive,Kips Bay,9:00,22:00,FALSE
+671,Predovic Inc,Mediterranean,Medium,Bay Ridge,9:00,22:00,FALSE
+672,"Willms, Kuhlman and O'Hara",Austrian,Expensive,Crown Heights,9:00,22:00,TRUE
+673,Hintz-Bartell,Cuban,Expensive,Rego Park,9:00,22:00,TRUE
+674,Von-Lockman,Nigerian,Cheap,Sutton Place,9:00,22:00,TRUE
+675,"Spencer, Jacobson and Gottlieb",Swiss,Expensive,Sunnyside,9:00,22:00,FALSE
+676,Medhurst and Sons,Lebanese,Medium,Forest Hills,9:00,22:00,TRUE
+677,Abernathy-Romaguera,Latvian,Cheap,East Harlem,9:00,22:00,FALSE
+678,VonRueden and Sons,Ethiopian,Cheap,Nolita,9:00,22:00,TRUE
+679,Osinski Group,Finnish,Cheap,Upper East Side,9:00,22:00,TRUE
+680,Murphy Group,Georgian,Expensive,SoHo,9:00,22:00,FALSE
+681,McCullough LLC,Jordanian,Medium,Bay Ridge,9:00,22:00,TRUE
+682,Legros Group,South African,Expensive,Sutton Place,9:00,22:00,TRUE
+683,Spinka LLC,Caribbean,Cheap,Astoria,9:00,22:00,FALSE
+684,Beier-Stracke,Czech,Cheap,Inwood,9:00,22:00,TRUE
+685,Schoen LLC,Russian,Medium,Rego Park,9:00,22:00,TRUE
+686,Leffler and Sons,Ethiopian,Cheap,Bedford-Stuyvesant,9:00,22:00,TRUE
+687,"Yundt, Grimes and Walter",Polish,Cheap,Battery Park City,9:00,22:00,TRUE
+688,"Feeney, Pfannerstill and Murray",Danish,Medium,Nolita,9:00,22:00,TRUE
+689,Wisoky Group,Russian,Cheap,Forest Hills,9:00,22:00,TRUE
+690,Dietrich-Schultz,Finnish,Cheap,Prospect Heights,9:00,22:00,FALSE
+691,Kling Group,Argentine,Medium,Bay Ridge,9:00,22:00,TRUE
+692,"Cummerata, Prosacco and Purdy",Iranian,Expensive,Jackson Heights,9:00,22:00,TRUE
+693,Boyle-Gerhold,Australian,Cheap,Brighton Beach,9:00,22:00,FALSE
+694,Cole LLC,Mediterranean,Cheap,Chinatown,9:00,22:00,TRUE
+695,Olson LLC,Ghanaian,Expensive,Chelsea,9:00,22:00,TRUE
+696,Nitzsche-Romaguera,Japanese,Expensive,Upper East Side,9:00,22:00,FALSE
+697,Kozey-Wolff,Cuban,Medium,Tribeca,9:00,22:00,TRUE
+698,Larkin Inc,Uzbek,Medium,Battery Park City,9:00,22:00,TRUE
+699,Barrows-Ledner,Saudi Arabian,Cheap,Ridgewood,9:00,22:00,FALSE
+700,Blanda and Sons,Turkish,Medium,Bay Ridge,9:00,22:00,FALSE
+701,Cole-Frami,Kazakh,Cheap,Midtown,9:00,22:00,FALSE
+702,Bins-Ziemann,Kyrgyz,Expensive,SoHo,9:00,22:00,TRUE
+703,Blanda Inc,Indonesian,Expensive,Upper East Side,9:00,22:00,TRUE
+704,Farrell-Grady,Vietnamese,Medium,Jackson Heights,9:00,22:00,TRUE
+705,Lesch-Breitenberg,Caribbean,Expensive,Park Slope,9:00,22:00,TRUE
+706,Langosh Inc,Lithuanian,Medium,Bay Ridge,9:00,22:00,TRUE
+707,"O'Reilly, Morissette and Quigley",Greek,Medium,Inwood,9:00,22:00,FALSE
+708,"Auer, Hand and Lubowitz",Iranian,Expensive,SoHo,9:00,22:00,TRUE
+709,Keebler Inc,Slovenian,Expensive,Kips Bay,9:00,22:00,FALSE
+710,Harber and Sons,Azerbaijani,Cheap,Sutton Place,9:00,22:00,FALSE
+711,"Little, Heller and Smith",Slovak,Expensive,Little Italy,9:00,22:00,FALSE
+712,Mann-Parisian,French,Cheap,Morningside Heights,9:00,22:00,TRUE
+713,"Boehm, Grant and Walter",American,Cheap,Woodside,9:00,22:00,FALSE
+714,Miller-Veum,Israeli,Medium,NoHo,9:00,22:00,FALSE
+715,Goldner-Lehner,Latvian,Expensive,Forest Hills,9:00,22:00,TRUE
+716,Davis-Marvin,Moroccan,Medium,Tribeca,9:00,22:00,TRUE
+717,"Fadel, Herman and Schimmel",Azerbaijani,Cheap,Times Square,9:00,22:00,FALSE
+718,Hyatt LLC,Emirati,Medium,Flatiron District,9:00,22:00,TRUE
+719,Leuschke-Blick,Indonesian,Cheap,Astoria,9:00,22:00,TRUE
+720,Bartell and Sons,Belgian,Medium,Sunnyside,9:00,22:00,TRUE
+721,Fadel-Hansen,Armenian,Cheap,Williamsburg,9:00,22:00,TRUE
+722,Fritsch-Stanton,Nepali,Medium,Upper West Side,9:00,22:00,TRUE
+723,Reichert and Sons,Estonian,Medium,Woodside,9:00,22:00,TRUE
+724,Yundt-Lakin,American,Cheap,Hamilton Heights,9:00,22:00,FALSE
+725,Harris Group,Greek,Expensive,Sutton Place,9:00,22:00,TRUE
+726,Boyle Inc,Uzbek,Cheap,Jamaica,9:00,22:00,FALSE
+727,"Hessel, Bednar and Kreiger",Bahraini,Expensive,Chinatown,9:00,22:00,FALSE
+728,Zemlak-Robel,Omani,Expensive,Washington Heights,9:00,22:00,FALSE
+729,Konopelski Group,Lebanese,Expensive,Lower Manhattan,9:00,22:00,FALSE
+730,Stanton and Sons,Nepali,Medium,Times Square,9:00,22:00,FALSE
+731,"Hayes, Padberg and Towne",Icelandic,Expensive,Bushwick,9:00,22:00,TRUE
+732,Schneider and Sons,Danish,Medium,Bedford-Stuyvesant,9:00,22:00,TRUE
+733,Mertz LLC,Chinese,Medium,Inwood,9:00,22:00,TRUE
+734,"Weimann, Stanton and Lang",Bulgarian,Medium,Lower Manhattan,9:00,22:00,TRUE
+735,Christiansen Inc,Palestinian,Medium,Flatbush,9:00,22:00,TRUE
+736,"McClure, Strosin and Douglas",Lebanese,Expensive,Morningside Heights,9:00,22:00,FALSE
+737,Schneider LLC,Afghan,Medium,Nolita,9:00,22:00,TRUE
+738,"Cremin, Williamson and Boyer",Filipino,Expensive,Jamaica,9:00,22:00,FALSE
+739,Trantow-Wilderman,Kyrgyz,Cheap,Murray Hill,9:00,22:00,TRUE
+740,"Nicolas, Bashirian and Schmeler",Omani,Cheap,Lower Manhattan,9:00,22:00,FALSE
+741,"Buckridge, Weissnat and Kuvalis",Malaysian,Medium,Tribeca,9:00,22:00,TRUE
+742,Greenfelder-Ritchie,Ethiopian,Cheap,Flushing,9:00,22:00,TRUE
+743,"Cole, Zulauf and Kuhn",Croatian,Cheap,Chinatown,9:00,22:00,FALSE
+744,Corwin Inc,Indonesian,Expensive,Bedford-Stuyvesant,9:00,22:00,FALSE
+745,Crona and Sons,Slovak,Medium,Crown Heights,9:00,22:00,FALSE
+746,Frami Inc,American,Cheap,Tribeca,9:00,22:00,FALSE
+747,"Adams, Schumm and Crona",Hungarian,Cheap,Bensonhurst,9:00,22:00,FALSE
+748,Torphy Group,Iranian,Medium,Elmhurst,9:00,22:00,TRUE
+749,Hammes-Terry,Sri Lankan,Medium,Elmhurst,9:00,22:00,TRUE
+750,Hudson LLC,Iranian,Medium,West Village,9:00,22:00,FALSE
+751,"Jast, West and Emmerich",Omani,Expensive,Financial District,9:00,22:00,FALSE
+752,"Doyle, Armstrong and Hamill",French,Cheap,Ridgewood,9:00,22:00,TRUE
+753,Legros Inc,Estonian,Medium,Sunnyside,9:00,22:00,FALSE
+754,Kassulke-Zboncak,Filipino,Expensive,Chelsea,9:00,22:00,TRUE
+755,Schmidt-Williamson,Israeli,Cheap,Jackson Heights,9:00,22:00,FALSE
+756,Daniel and Sons,Bahraini,Medium,Long Island City,9:00,22:00,TRUE
+757,Strosin-White,Bulgarian,Medium,West Village,9:00,22:00,TRUE
+758,Reynolds Group,Uzbek,Medium,Bushwick,9:00,22:00,TRUE
+759,Wiegand-Carter,Indonesian,Expensive,Williamsburg,9:00,22:00,FALSE
+760,Friesen Group,Malaysian,Medium,Brighton Beach,9:00,22:00,TRUE
+761,"Bahringer, Osinski and Lindgren",Argentine,Cheap,Morningside Heights,9:00,22:00,FALSE
+762,Gorczany-Jaskolski,Bangladeshi,Cheap,Washington Heights,9:00,22:00,FALSE
+763,Konopelski-Klein,Filipino,Cheap,Midtown,9:00,22:00,TRUE
+764,"Blick, Bosco and Beer",Austrian,Expensive,Washington Heights,9:00,22:00,TRUE
+765,Barrows-Walter,Swedish,Expensive,Greenwich Village,9:00,22:00,FALSE
+766,"Bernier, Smitham and Abshire",Polish,Expensive,Chelsea,9:00,22:00,TRUE
+767,Watsica Group,Kyrgyz,Cheap,Tribeca,9:00,22:00,FALSE
+768,"Nolan, Kerluke and Lemke",German,Cheap,Financial District,9:00,22:00,FALSE
+769,"VonRueden, Emard and Deckow",Italian,Medium,Battery Park City,9:00,22:00,FALSE
+770,Harris-Rutherford,Mediterranean,Cheap,Lower East Side,9:00,22:00,FALSE
+771,Breitenberg Group,Australian,Medium,Lower East Side,9:00,22:00,TRUE
+772,"Tremblay, Muller and Feeney",Mediterranean,Cheap,Chinatown,9:00,22:00,TRUE
+773,Stiedemann-Kautzer,Estonian,Expensive,Little Italy,9:00,22:00,FALSE
+774,Johnston Group,Filipino,Cheap,Murray Hill,9:00,22:00,TRUE
+775,Breitenberg Group,Sri Lankan,Expensive,Chelsea,9:00,22:00,FALSE
+776,Cummings Group,Pakistani,Expensive,Brighton Beach,9:00,22:00,FALSE
+777,Cruickshank-Bins,Mexican,Cheap,Long Island City,9:00,22:00,FALSE
+778,"Conroy, Pfannerstill and Russel",French,Cheap,Bayside,9:00,22:00,FALSE
+779,Murazik Inc,Greek,Medium,Chinatown,9:00,22:00,FALSE
+780,"Batz, Lockman and Morissette",Caribbean,Expensive,Morningside Heights,9:00,22:00,FALSE
+781,"Simonis, D'Amore and Rippin",Israeli,Medium,East Village,9:00,22:00,TRUE
+782,Luettgen-Rosenbaum,Austrian,Expensive,Forest Hills,9:00,22:00,FALSE
+783,Douglas-Olson,Bahraini,Medium,SoHo,9:00,22:00,FALSE
+784,"Kuvalis, Mitchell and Boehm",Portuguese,Medium,Bayside,9:00,22:00,FALSE
+785,"Feeney, Howell and Emard",Indonesian,Medium,Lower Manhattan,9:00,22:00,FALSE
+786,Koelpin Inc,Swedish,Cheap,Flatiron District,9:00,22:00,TRUE
+787,Miller-Purdy,Caribbean,Expensive,Little Italy,9:00,22:00,FALSE
+788,Osinski-Tillman,Chinese,Medium,Rego Park,9:00,22:00,FALSE
+789,"Robel, Dietrich and Swift",Sri Lankan,Medium,Jamaica,9:00,22:00,FALSE
+790,Hudson-Breitenberg,Swedish,Expensive,Prospect Heights,9:00,22:00,FALSE
+791,Frami-McGlynn,Mongolian,Expensive,Kips Bay,9:00,22:00,FALSE
+792,"Murray, Sipes and Bogisich",Estonian,Medium,East Harlem,9:00,22:00,FALSE
+793,"Collier, Douglas and Simonis",Israeli,Expensive,Jackson Heights,9:00,22:00,TRUE
+794,"Bednar, Volkman and Lang",Israeli,Medium,Little Italy,9:00,22:00,TRUE
+795,Lebsack and Sons,Korean,Expensive,Sutton Place,9:00,22:00,TRUE
+796,"Crooks, Raynor and Hegmann",Mediterranean,Cheap,Coney Island,9:00,22:00,FALSE
+797,Marquardt-Wiegand,Vietnamese,Medium,Little Italy,9:00,22:00,TRUE
+798,Moore Group,Lithuanian,Cheap,Times Square,9:00,22:00,FALSE
+799,Stiedemann Inc,Belgian,Expensive,Upper West Side,9:00,22:00,FALSE
+800,Brekke LLC,South African,Expensive,NoHo,9:00,22:00,FALSE
+801,"D'Amore, Schaefer and Wunsch",Yemeni,Cheap,Prospect Heights,9:00,22:00,TRUE
+802,"Konopelski, Cummerata and Kunde",Bulgarian,Expensive,Greenwich Village,9:00,22:00,TRUE
+803,Wolf-O'Connell,Turkish,Expensive,East Harlem,9:00,22:00,FALSE
+804,Barton-Zulauf,American,Cheap,Kips Bay,9:00,22:00,FALSE
+805,"Gleason, Cummings and Veum",Belgian,Medium,Rego Park,9:00,22:00,FALSE
+806,"Goyette, Sanford and Mertz",Swedish,Medium,Murray Hill,9:00,22:00,TRUE
+807,"Schowalter, Koch and Lynch",Slovenian,Cheap,Bedford-Stuyvesant,9:00,22:00,TRUE
+808,"Roob, Kovacek and White",Caribbean,Cheap,Bayside,9:00,22:00,FALSE
+809,Koch Group,Jordanian,Expensive,Hell's Kitchen,9:00,22:00,TRUE
+810,Zboncak-Lueilwitz,Afghan,Medium,Murray Hill,9:00,22:00,TRUE
+811,"Raynor, Murazik and Douglas",Caribbean,Cheap,Battery Park City,9:00,22:00,TRUE
+812,Kihn-Parisian,Ukrainian,Medium,Financial District,9:00,22:00,FALSE
+813,"Beer, O'Conner and Becker",Uzbek,Cheap,Brighton Beach,9:00,22:00,FALSE
+814,Towne LLC,Indonesian,Expensive,Crown Heights,9:00,22:00,TRUE
+815,Lebsack-Weber,Spanish,Cheap,Forest Hills,9:00,22:00,FALSE
+816,Considine LLC,Kenyan,Medium,Lower Manhattan,9:00,22:00,TRUE
+817,"McLaughlin, Lesch and Cronin",Lithuanian,Expensive,East Village,9:00,22:00,FALSE
+818,"Walker, Roberts and Huel",Sri Lankan,Cheap,Woodside,9:00,22:00,TRUE
+819,Watsica LLC,Vietnamese,Medium,Astoria,9:00,22:00,TRUE
+820,Dicki-Rodriguez,Nepali,Medium,Harlem,9:00,22:00,TRUE
+821,Little-Wilderman,Austrian,Cheap,Nolita,9:00,22:00,FALSE
+822,Flatley Group,Sri Lankan,Expensive,Jackson Heights,9:00,22:00,FALSE
+823,Daugherty and Sons,Finnish,Medium,Chelsea,9:00,22:00,TRUE
+824,Padberg Group,South African,Medium,Little Italy,9:00,22:00,FALSE
+825,Rau and Sons,Ukrainian,Medium,Bayside,9:00,22:00,TRUE
+826,"Labadie, Stroman and Bode",Slovenian,Expensive,Bushwick,9:00,22:00,FALSE
+827,"Upton, Upton and O'Conner",Nepali,Cheap,Forest Hills,9:00,22:00,TRUE
+828,"Schulist, Goyette and Bode",Caribbean,Cheap,Chelsea,9:00,22:00,FALSE
+829,Bogan LLC,Hungarian,Cheap,Murray Hill,9:00,22:00,TRUE
+830,"Farrell, Swaniawski and Kirlin",German,Expensive,Jackson Heights,9:00,22:00,TRUE
+831,Paucek-Wiegand,German,Expensive,Forest Hills,9:00,22:00,TRUE
+832,Reilly-O'Kon,Saudi Arabian,Expensive,Long Island City,9:00,22:00,FALSE
+833,Will Inc,Icelandic,Cheap,Upper East Side,9:00,22:00,FALSE
+834,Schinner-Lesch,British,Expensive,Jackson Heights,9:00,22:00,TRUE
+835,Cummings LLC,Israeli,Expensive,Jackson Heights,9:00,22:00,FALSE
+836,"Blanda, Jakubowski and Green",Peruvian,Cheap,Williamsburg,9:00,22:00,TRUE
+837,Bashirian-Heller,Yemeni,Expensive,SoHo,9:00,22:00,TRUE
+838,Jacobs-Cummings,Armenian,Medium,Kips Bay,9:00,22:00,TRUE
+839,"Considine, Reilly and Mertz",Kenyan,Medium,Astoria,9:00,22:00,FALSE
+840,Vandervort Inc,Azerbaijani,Medium,Bushwick,9:00,22:00,FALSE
+841,Conroy-Schuster,American,Medium,Brighton Beach,9:00,22:00,FALSE
+842,Goldner-Fisher,Polish,Cheap,Bayside,9:00,22:00,TRUE
+843,"Quigley, Block and Waelchi",Hungarian,Medium,Ridgewood,9:00,22:00,TRUE
+844,Cremin-Shanahan,Pakistani,Cheap,Kips Bay,9:00,22:00,FALSE
+845,"Stehr, Friesen and Dietrich",Uzbek,Medium,Upper East Side,9:00,22:00,FALSE
+846,"Hirthe, Fadel and Runte",Palestinian,Medium,Inwood,9:00,22:00,TRUE
+847,Schmitt-Schumm,Iranian,Cheap,Tribeca,9:00,22:00,FALSE
+848,"Lueilwitz, Blick and Walter",Omani,Cheap,Sunnyside,9:00,22:00,TRUE
+849,Heller and Sons,Turkish,Cheap,Battery Park City,9:00,22:00,TRUE
+850,Borer-Bernier,Ethiopian,Expensive,Flatiron District,9:00,22:00,FALSE
+851,Larson-Heller,Austrian,Medium,Hamilton Heights,9:00,22:00,FALSE
+852,"Kris, Corwin and Price",French,Cheap,Tribeca,9:00,22:00,FALSE
+853,Hahn and Sons,Israeli,Cheap,Greenwich Village,9:00,22:00,FALSE
+854,"Hettinger, Armstrong and Hamill",Finnish,Cheap,Williamsburg,9:00,22:00,TRUE
+855,"Bashirian, Fay and Stark",Omani,Cheap,Lower Manhattan,9:00,22:00,TRUE
+856,"Kerluke, Parisian and Schaden",Danish,Expensive,Battery Park City,9:00,22:00,TRUE
+857,Carroll-Graham,American,Medium,Astoria,9:00,22:00,FALSE
+858,"Nitzsche, Windler and Kunze",Vietnamese,Expensive,Kips Bay,9:00,22:00,TRUE
+859,"Kreiger, Hermann and Hessel",Indonesian,Expensive,Washington Heights,9:00,22:00,TRUE
+860,Ryan Inc,Pakistani,Medium,Chelsea,9:00,22:00,TRUE
+861,"Rempel, Durgan and King",Bulgarian,Cheap,Hamilton Heights,9:00,22:00,TRUE
+862,"Deckow, Schiller and Rohan",Chinese,Cheap,Greenpoint,9:00,22:00,TRUE
+863,Weber LLC,Azerbaijani,Medium,Bedford-Stuyvesant,9:00,22:00,TRUE
+864,"Davis, Daugherty and Pouros",Estonian,Medium,Hamilton Heights,9:00,22:00,TRUE
+865,Legros-Mann,Spanish,Expensive,Lower Manhattan,9:00,22:00,TRUE
+866,"Ullrich, Trantow and Schulist",Swedish,Expensive,Sunnyside,9:00,22:00,TRUE
+867,"Ernser, Konopelski and Witting",Estonian,Cheap,Times Square,9:00,22:00,FALSE
+868,"Gutmann, Von and Feeney",Lithuanian,Expensive,Hamilton Heights,9:00,22:00,TRUE
+869,"Ankunding, Abernathy and Johnson",Croatian,Cheap,Ridgewood,9:00,22:00,TRUE
+870,MacGyver Group,Japanese,Cheap,Flatiron District,9:00,22:00,FALSE
+871,Leuschke-Feil,Iranian,Medium,Sunnyside,9:00,22:00,TRUE
+872,Gleason LLC,Kyrgyz,Expensive,Bensonhurst,9:00,22:00,FALSE
+873,"Robel, Wiza and Price",Slovak,Medium,Kips Bay,9:00,22:00,TRUE
+874,"Conn, Zemlak and Padberg",Romanian,Expensive,Bay Ridge,9:00,22:00,FALSE
+875,"Pagac, Strosin and Romaguera",Indian,Medium,Williamsburg,9:00,22:00,FALSE
+876,Murphy-Mertz,Nepali,Expensive,West Village,9:00,22:00,TRUE
+877,Oberbrunner Group,Armenian,Expensive,Rego Park,9:00,22:00,FALSE
+878,Larson-Connelly,Bulgarian,Medium,SoHo,9:00,22:00,TRUE
+879,Brown Group,Bulgarian,Medium,Battery Park City,9:00,22:00,TRUE
+880,"Kozey, Howe and Crooks",Afghan,Expensive,Jamaica,9:00,22:00,TRUE
+881,Marks-Hoppe,Bahraini,Medium,Jamaica,9:00,22:00,TRUE
+882,Schowalter-Hane,Norwegian,Cheap,Times Square,9:00,22:00,FALSE
+883,"Nitzsche, Sawayn and Bayer",Finnish,Cheap,Midtown,9:00,22:00,TRUE
+884,Swift-Adams,Azerbaijani,Expensive,Jackson Heights,9:00,22:00,FALSE
+885,"Reilly, Rosenbaum and Medhurst",Czech,Cheap,Lower Manhattan,9:00,22:00,FALSE
+886,Wuckert-Bergstrom,Latvian,Medium,Washington Heights,9:00,22:00,TRUE
+887,O'Hara-Kunze,Latvian,Medium,NoHo,9:00,22:00,TRUE
+888,Ullrich LLC,Iraqi,Medium,Bensonhurst,9:00,22:00,TRUE
+889,Erdman and Sons,Italian,Cheap,Elmhurst,9:00,22:00,FALSE
+890,Kemmer-Zieme,Ukrainian,Medium,Murray Hill,9:00,22:00,FALSE
+891,Breitenberg-Rutherford,Finnish,Medium,Rego Park,9:00,22:00,FALSE
+892,McGlynn-Kihn,Greek,Medium,Times Square,9:00,22:00,TRUE
+893,"Grant, Trantow and Monahan",Romanian,Cheap,Bayside,9:00,22:00,TRUE
+894,"Adams, Hand and Muller",Lithuanian,Cheap,Rego Park,9:00,22:00,FALSE
+895,O'Conner-Bernhard,Danish,Cheap,Bayside,9:00,22:00,TRUE
+896,Barrows LLC,Emirati,Medium,Prospect Heights,9:00,22:00,TRUE
+897,Champlin-McDermott,Vietnamese,Cheap,West Village,9:00,22:00,TRUE
+898,"Ebert, O'Kon and Sanford",Bulgarian,Cheap,Chelsea,9:00,22:00,TRUE
+899,Reynolds Inc,Swedish,Expensive,Coney Island,9:00,22:00,FALSE
+900,Lebsack Group,Icelandic,Cheap,Park Slope,9:00,22:00,TRUE
+901,Bahringer Inc,Jordanian,Expensive,Astoria,9:00,22:00,FALSE
+902,Turner-Hauck,Finnish,Medium,Astoria,9:00,22:00,TRUE
+903,"Klocko, Stracke and Kessler",Qatari,Cheap,Sutton Place,9:00,22:00,TRUE
+904,"Schaefer, Christiansen and Kemmer",Ukrainian,Cheap,Hell's Kitchen,9:00,22:00,FALSE
+905,"Haley, Smitham and Ankunding",Nepali,Expensive,West Village,9:00,22:00,FALSE
+906,"Dickens, Hettinger and Cremin",Vietnamese,Expensive,Astoria,9:00,22:00,FALSE
+907,Simonis-Robel,Mexican,Medium,Crown Heights,9:00,22:00,FALSE
+908,Zemlak and Sons,Ukrainian,Expensive,Nolita,9:00,22:00,TRUE
+909,Conroy LLC,Jordanian,Cheap,Washington Heights,9:00,22:00,TRUE
+910,"Breitenberg, Goyette and Mertz",Filipino,Expensive,Bensonhurst,9:00,22:00,FALSE
+911,Williamson-Borer,Turkish,Cheap,Washington Heights,9:00,22:00,TRUE
+912,Bogisich-Fisher,Vietnamese,Medium,Battery Park City,9:00,22:00,TRUE
+913,"Mertz, Smith and Fay",Uzbek,Expensive,Jackson Heights,9:00,22:00,TRUE
+914,McKenzie Group,Norwegian,Cheap,Kips Bay,9:00,22:00,TRUE
+915,"Streich, Balistreri and Yundt",Tajik,Cheap,Harlem,9:00,22:00,TRUE
+916,Krajcik Group,Qatari,Expensive,Coney Island,9:00,22:00,TRUE
+917,Rice Inc,Finnish,Medium,Jackson Heights,9:00,22:00,TRUE
+918,"Lueilwitz, Pfeffer and Kuhn",German,Medium,Prospect Heights,9:00,22:00,TRUE
+919,Zboncak-Pollich,Hungarian,Expensive,Kips Bay,9:00,22:00,FALSE
+920,Lang Inc,German,Cheap,Financial District,9:00,22:00,TRUE
+921,"Botsford, Graham and Blanda",Qatari,Medium,Rego Park,9:00,22:00,FALSE
+922,Wolff-Bogisich,Bulgarian,Medium,NoHo,9:00,22:00,TRUE
+923,Gerlach and Sons,Belgian,Cheap,Williamsburg,9:00,22:00,TRUE
+924,"Franecki, Crona and Christiansen",Nigerian,Expensive,Morningside Heights,9:00,22:00,FALSE
+925,Walker-Labadie,Caribbean,Medium,Lower Manhattan,9:00,22:00,TRUE
+926,"Mraz, Langosh and Cormier",Austrian,Expensive,Tribeca,9:00,22:00,FALSE
+927,"Wiza, Ryan and Rutherford",Bahraini,Expensive,Coney Island,9:00,22:00,TRUE
+928,"Hayes, Tromp and Koch",Belgian,Medium,Upper East Side,9:00,22:00,FALSE
+929,"Kautzer, Fay and Bauch",Peruvian,Medium,Morningside Heights,9:00,22:00,FALSE
+930,"Schinner, Champlin and Weimann",Greek,Cheap,Elmhurst,9:00,22:00,TRUE
+931,Herman-Wehner,Mexican,Expensive,Upper West Side,9:00,22:00,TRUE
+932,McCullough Group,Nigerian,Medium,Bensonhurst,9:00,22:00,TRUE
+933,Kemmer-Ankunding,Russian,Cheap,Morningside Heights,9:00,22:00,TRUE
+934,Gorczany Inc,South African,Cheap,Gramercy,9:00,22:00,FALSE
+935,Koch LLC,Norwegian,Medium,Brighton Beach,9:00,22:00,FALSE
+936,"Dibbert, Conn and Ankunding",Swedish,Expensive,Lower Manhattan,9:00,22:00,TRUE
+937,Carter-Schneider,Israeli,Expensive,Bay Ridge,9:00,22:00,TRUE
+938,Veum-Murphy,Ukrainian,Medium,East Harlem,9:00,22:00,TRUE
+939,Stracke and Sons,Czech,Medium,Upper West Side,9:00,22:00,FALSE
+940,Funk Group,Portuguese,Expensive,West Village,9:00,22:00,FALSE
+941,"Barrows, Kuhn and Kuvalis",Slovak,Cheap,Chinatown,9:00,22:00,FALSE
+942,Daugherty Inc,Czech,Expensive,Greenwich Village,9:00,22:00,TRUE
+943,"Grant, O'Keefe and Gerhold",Malaysian,Cheap,Long Island City,9:00,22:00,FALSE
+944,"Sipes, Haley and O'Kon",Cuban,Cheap,Hamilton Heights,9:00,22:00,TRUE
+945,Will Group,French,Cheap,Ridgewood,9:00,22:00,FALSE
+946,"Lesch, Hagenes and Luettgen",Nepali,Expensive,Upper East Side,9:00,22:00,TRUE
+947,Mayert Group,Czech,Medium,Morningside Heights,9:00,22:00,TRUE
+948,"Wolf, Koch and Gulgowski",Azerbaijani,Cheap,Hamilton Heights,9:00,22:00,TRUE
+949,Rowe Group,Cuban,Expensive,Woodside,9:00,22:00,TRUE
+950,Cormier-Balistreri,Portuguese,Cheap,Elmhurst,9:00,22:00,FALSE
+951,"Adams, Mann and Emmerich",Mediterranean,Cheap,Sutton Place,9:00,22:00,TRUE
+952,"Hills, Botsford and Ernser",Nigerian,Cheap,Ridgewood,9:00,22:00,FALSE
+953,"Yost, Klocko and Gleichner",South African,Expensive,Brighton Beach,9:00,22:00,FALSE
+954,Kautzer Inc,Indian,Expensive,Chinatown,9:00,22:00,FALSE
+955,Bayer LLC,Nepali,Cheap,Sutton Place,9:00,22:00,FALSE
+956,"Schaefer, Kiehn and Konopelski",Argentine,Medium,Sutton Place,9:00,22:00,FALSE
+957,Bartell-Frami,Ethiopian,Expensive,Jackson Heights,9:00,22:00,FALSE
+958,"Simonis, O'Conner and Schumm",Polish,Medium,Financial District,9:00,22:00,TRUE
+959,Howe LLC,Kazakh,Expensive,Ridgewood,9:00,22:00,FALSE
+960,Botsford-Olson,Cuban,Cheap,Battery Park City,9:00,22:00,FALSE
+961,O'Reilly Inc,Spanish,Expensive,Woodside,9:00,22:00,FALSE
+962,"Pfannerstill, Adams and Keeling",Bulgarian,Medium,Woodside,9:00,22:00,FALSE
+963,Satterfield-Rogahn,Kenyan,Cheap,Harlem,9:00,22:00,TRUE
+964,Schaden-Reynolds,Australian,Cheap,Midtown,9:00,22:00,TRUE
+965,"Cronin, Thiel and Weber",Bulgarian,Expensive,Forest Hills,9:00,22:00,FALSE
+966,Ferry Group,Tajik,Expensive,Midtown,9:00,22:00,TRUE
+967,Schuster Group,Georgian,Medium,Woodside,9:00,22:00,FALSE
+968,Kohler-Graham,Lebanese,Expensive,Woodside,9:00,22:00,TRUE
+969,"Ritchie, Tromp and Lind",Emirati,Medium,Battery Park City,9:00,22:00,TRUE
+970,Maggio-Hilll,Slovenian,Expensive,Sutton Place,9:00,22:00,TRUE
+971,Zboncak-Dickens,South African,Medium,NoHo,9:00,22:00,TRUE
+972,Gutkowski-Bogisich,Icelandic,Medium,Ridgewood,9:00,22:00,TRUE
+973,Botsford LLC,Hungarian,Expensive,Jamaica,9:00,22:00,TRUE
+974,Collier-Blanda,Omani,Expensive,Jackson Heights,9:00,22:00,TRUE
+975,Donnelly Group,Polish,Cheap,Sunnyside,9:00,22:00,TRUE
+976,Lehner-Wisozk,Mongolian,Medium,Harlem,9:00,22:00,FALSE
+977,Schinner-Thiel,Lithuanian,Expensive,Flatbush,9:00,22:00,TRUE
+978,Beer and Sons,Omani,Cheap,Flatbush,9:00,22:00,FALSE
+979,Hermiston-Boehm,Indonesian,Cheap,Astoria,9:00,22:00,FALSE
+980,Reilly-Feil,Italian,Cheap,Washington Heights,9:00,22:00,FALSE
+981,Price-Will,Bulgarian,Medium,Tribeca,9:00,22:00,FALSE
+982,Wolf-Keeling,Czech,Medium,Rego Park,9:00,22:00,TRUE
+983,Sanford LLC,Czech,Medium,Bay Ridge,9:00,22:00,FALSE
+984,Robel LLC,Cuban,Expensive,Ridgewood,9:00,22:00,TRUE
+985,Walker-Gerlach,Uzbek,Expensive,Jackson Heights,9:00,22:00,TRUE
+986,Rutherford Inc,Slovak,Medium,Morningside Heights,9:00,22:00,FALSE
+987,Kling-Fay,Iraqi,Medium,Lower Manhattan,9:00,22:00,TRUE
+988,Wilderman-Schuppe,Danish,Expensive,Lower Manhattan,9:00,22:00,FALSE
+989,Blick-Olson,Malaysian,Expensive,Bedford-Stuyvesant,9:00,22:00,TRUE
+990,Rath Inc,Pakistani,Expensive,Upper West Side,9:00,22:00,TRUE
+991,Cummerata Inc,Mexican,Cheap,East Harlem,9:00,22:00,TRUE
+992,"Batz, Corwin and Beer",Romanian,Expensive,Hell's Kitchen,9:00,22:00,FALSE
+993,Mohr-DuBuque,Austrian,Cheap,Chinatown,9:00,22:00,FALSE
+994,Bartoletti-Klein,Qatari,Expensive,Financial District,9:00,22:00,FALSE
+995,Spencer-Koepp,Japanese,Medium,Little Italy,9:00,22:00,FALSE
+996,"Ferry, Bode and Casper",South African,Medium,Ridgewood,9:00,22:00,FALSE
+997,Schiller Group,Mediterranean,Cheap,Chelsea,9:00,22:00,TRUE
+998,Considine Inc,Slovak,Expensive,Battery Park City,9:00,22:00,FALSE
+999,"Feest, Hirthe and Lemke",Hungarian,Medium,Williamsburg,9:00,22:00,TRUE
+1000,Fadel-Torp,Indonesian,Expensive,Park Slope,9:00,22:00,FALSE
