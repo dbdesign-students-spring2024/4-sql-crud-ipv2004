@@ -122,17 +122,17 @@ CREATE TABLE stories (
 ### 4. Queries
 a. **Register a new User.**
 ```sql
-INSERT INTO users (email, password, handle) VALUES ('user@example.com', 'password123', 'userhandle');
+INSERT INTO users (email, password, handle) VALUES ('ipv2004@nyu.edu', 'password123', 'ipv2004');
 ```
 b. **Create a new Message sent by a particular User to a particular User (pick any two Users for example).**
 ```sql
 INSERT INTO posts (user_id, post_type, created_at) VALUES (1, 'message', datetime('now'));
-INSERT INTO messages (message_id, recipient_id, content) VALUES (last_insert_rowid(), 2, 'Hello from User 1 to User 2');
+INSERT INTO messages (message_id, recipient_id, content) VALUES (last_insert_rowid(), 2, 'did you see the news about things idk');
 ```
 c. **Create a new Story by a particular User (pick any User for example).**
 ```sql
 INSERT INTO posts (user_id, post_type, created_at) VALUES (1, 'story', datetime('now'));
-INSERT INTO stories (story_id, content) VALUES (last_insert_rowid(), 'Story by User 1');
+INSERT INTO stories (story_id, content) VALUES (last_insert_rowid(), 'eating food in da bed');
 ```
 d. **Show the 10 most recent visible Messages and Stories, in order of recency.**
 ```sql
